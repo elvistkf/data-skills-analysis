@@ -1,0 +1,4771 @@
+[
+{
+    "_id": "7805818794cd42e12d4d1fc4857d85237ceb9fc9b368d6b0d52ecf771796209f",
+    "position": "Data Analyst - Fall 2022 Student - Personal & Commercial Banking",
+    "company": "Royal Bank of Canada",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "BI": [
+        "excel",
+        "tableau"
+    ],
+    "DB": [
+        "access"
+    ],
+    "major": [
+        "computer science",
+        "engineering",
+        "business administration"
+    ],
+    "programming": [
+        "vba",
+        "python"
+    ],
+    "date": "2022-06-26 13:38:56"
+},
+{
+    "_id": "4eec8bf84fbde046e590a6bc9738b8d36c4fd256eb585f57a6fe8bbe8cd85a90",
+    "position": "Data & Analytics - Senior Data Analyst",
+    "company": "Aritzia",
+    "country": "Canada",
+    "location": "Vancouver, BC",
+    "category": "Data Analyst",
+    "programming": [
+        "python",
+        "r",
+        "sql"
+    ],
+    "BI": [
+        "power bi",
+        "looker",
+        "tableau"
+    ],
+    "date": "2022-06-26 13:38:59"
+},
+{
+    "_id": "3c8342711181eaaf21ef913e145ac10b4b3e2c0d7b83bebc60ea3f70b4840e0a",
+    "position": "Data Analyst",
+    "company": "Electronic Arts",
+    "country": "Canada",
+    "location": "Vancouver, BC",
+    "category": "Data Analyst",
+    "BI": [
+        "power bi",
+        "looker",
+        "tableau"
+    ],
+    "programming": [
+        "python",
+        "sql"
+    ],
+    "cloud": [
+        "aws",
+        "azure",
+        "gcp"
+    ],
+    "major": [
+        "engineering sciences",
+        "statistics",
+        "mathematics",
+        "computer science",
+        "economics"
+    ],
+    "date": "2022-06-26 13:38:59"
+},
+{
+    "_id": "4cbb045e7aaebc237dba0f10ee38b7f59f6d21e2adfc92fb3ed07e37ca9fc99a",
+    "position": "eHealth Data Analyst",
+    "company": "Keewaytinook Okimakanak",
+    "country": "Canada",
+    "location": "Balmertown, ON",
+    "category": "Data Analyst",
+    "BI": [
+        "excel"
+    ],
+    "major": [
+        "health sciences"
+    ],
+    "date": "2022-06-26 13:39:00"
+},
+{
+    "_id": "b90a6bce3a985aa55498e601334d85a76f6a223de36a5bde43b769b2b4e9e0fc",
+    "position": "Analyst, Pharmacy Data",
+    "company": "Shoppers Drug Mart / Pharmaprix",
+    "country": "Canada",
+    "location": "Brampton, ON",
+    "category": "Data Analyst",
+    "degree": [
+        "enrol",
+        "toute"
+    ],
+    "BI": [
+        "vos",
+        "une",
+        "que",
+        "excel",
+        "d’apprentissage",
+        "de"
+    ],
+    "programming": [
+        "beauté",
+        "ess",
+        "à",
+        "de",
+        "des"
+    ],
+    "major": [
+        "science",
+        "healthcare"
+    ],
+    "date": "2022-06-26 13:39:04"
+},
+{
+    "_id": "f55f61543c198b81a809f5ef558e00e356c2821147930c4f9a41eaf0b444c97d",
+    "position": "Data Analyst - Product & Partnerships",
+    "company": "Moneris Solutions",
+    "country": "Canada",
+    "location": "Remote",
+    "category": "Data Analyst",
+    "degree": [
+        "bachelor"
+    ],
+    "major": [
+        "business analytics",
+        "statistics",
+        "computer science"
+    ],
+    "BI": [
+        "excel",
+        "tableau"
+    ],
+    "DB": [
+        "access"
+    ],
+    "programming": [
+        "iwc",
+        "python",
+        "r",
+        "sql"
+    ],
+    "cloud": [
+        "mf2",
+        "azure"
+    ],
+    "date": "2022-06-26 13:39:05"
+},
+{
+    "_id": "697bc0c34962b310d824676b3d466a14977197184c58e44cad99b661817e5c21",
+    "position": "analyst, business - computer systems",
+    "company": "NU Ventures Solutions Ltd.",
+    "country": "Canada",
+    "location": "Edmonton, AB",
+    "category": "Data Analyst",
+    "date": "2022-06-26 13:39:06"
+},
+{
+    "_id": "f911dbd43349a63168cd738c51b32b9d525abb497a36d484ca4e3eb19e52bb0f",
+    "position": "Analyst, Environment and Resource Efficient Operations",
+    "company": "McCain Foods (Canada)",
+    "country": "Canada",
+    "location": "Florenceville-Bristol, NB",
+    "category": "Data Analyst",
+    "BI": [
+        "power bi"
+    ],
+    "degree": [
+        "bachelor"
+    ],
+    "major": [
+        "computer science",
+        "environmental science",
+        "engineering",
+        "business"
+    ],
+    "date": "2022-06-26 13:39:08"
+},
+{
+    "_id": "b4bc9cb4940483b03a5b74ad028296ef9a57e04456521cd990dd5889251a40ad",
+    "position": "Data Analyst-Coder - Decision Support - Temporary Full-time (until approx August 2023) (222114)",
+    "company": "Sunnybrook Health Sciences Centre",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "cloud": [
+        "cihi"
+    ],
+    "DB": [
+        "acw's"
+    ],
+    "date": "2022-06-26 13:39:10"
+},
+{
+    "_id": "85b10d1fa4fc6c5d55da919cf450ce3e878bb7f851a6e48e020c9303df1c9f2c",
+    "position": "Sr. IT Data Analyst",
+    "company": "TD Bank",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "programming": [
+        "sql"
+    ],
+    "major": [
+        "undergraduate degree"
+    ],
+    "date": "2022-06-26 13:39:17"
+},
+{
+    "_id": "762ca6fb78a16842a1075566c52ed117c135af4ee5523e3e37a1c11aefda10a9",
+    "position": "database analyst (DBA)",
+    "company": "KISTAANGS INC",
+    "country": "Canada",
+    "location": "Milton, ON",
+    "category": "Data Analyst",
+    "major": [
+        "data science"
+    ],
+    "date": "2022-06-26 13:39:24"
+},
+{
+    "_id": "bef6b045d4a93c265a0aff5ebe296f5f4ce1bb15b640413de99111b59e4c63e1",
+    "position": "Sr Visualization Analyst",
+    "company": "Suncor Energy",
+    "country": "Canada",
+    "location": "Calgary, AB",
+    "category": "Data Analyst",
+    "degree": [
+        "bachelor"
+    ],
+    "major": [
+        "computer science",
+        "mathematics",
+        "art",
+        "statistics"
+    ],
+    "date": "2022-06-26 13:39:26"
+},
+{
+    "_id": "ca20eb3758832e7eab37d43b759f56f50b5e8aa2e0fda044a10cd9e68d3c6280",
+    "position": "Data Visualization Designer",
+    "company": "Darkhorse Analytics",
+    "country": "Canada",
+    "location": "Remote",
+    "category": "Data Analyst",
+    "major": [
+        "public health"
+    ],
+    "BI": [
+        "excel",
+        "tableau"
+    ],
+    "programming": [
+        "html",
+        "python",
+        "r",
+        "javascript"
+    ],
+    "date": "2022-06-26 13:39:28"
+},
+{
+    "_id": "e7e4a90b894d6e61ab88e7c635ab5fbdc83ee1241436e2370cd79e02022d0bc1",
+    "position": "Data Analyst",
+    "company": "Centre for Gender and Sexual Health Equity",
+    "country": "Canada",
+    "location": "Head, ON",
+    "category": "Data Analyst",
+    "programming": [
+        "f"
+    ],
+    "DB": [
+        "r and/or sas"
+    ],
+    "major": [
+        "epidemiology",
+        "statistics"
+    ],
+    "BI": [
+        "excel"
+    ],
+    "date": "2022-06-26 13:39:29"
+},
+{
+    "_id": "0c76e6501dd5d6de08eb4011c3c4fb1ca692914dfe8a48337d7e1a4b56d92de6",
+    "position": "Manager, Sustainability Data Analyst - Corporate Real Estate (CRE)",
+    "company": "Royal Bank of Canada",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "date": "2022-06-26 13:39:30"
+},
+{
+    "_id": "0f5d2ebdba4f6642a850133a251c578a42b558b2d639ce2a635ec2b4cd8e2a13",
+    "position": "Data Analyst - Cell Biology",
+    "company": "AbCellera",
+    "country": "Canada",
+    "location": "Vancouver, BC",
+    "category": "Data Analyst",
+    "major": [
+        "cell biology",
+        "immunology",
+        "data science"
+    ],
+    "programming": [
+        "python",
+        "r",
+        "sql"
+    ],
+    "cloud": [
+        "shiny",
+        "redshift"
+    ],
+    "date": "2022-06-26 13:39:32"
+},
+{
+    "_id": "6bae3df4f327cfd78c8e3e0ed59da9ea48a33a04b7eeaa0438fb195b06ea3b12",
+    "position": "Analyst, Data Governance Program",
+    "company": "Royal Bank of Canada",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "degree": [
+        "bachelor"
+    ],
+    "date": "2022-06-26 13:39:33"
+},
+{
+    "_id": "af8228ef0aa46d7c15c4668bc8fc70f96863381f56100009dd7f0b668406c1c1",
+    "position": "Fuel Data Analyst",
+    "company": "Canadian Tire Corporation",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "DB": [
+        "access"
+    ],
+    "BI": [
+        "excel"
+    ],
+    "date": "2022-06-26 13:39:34"
+},
+{
+    "_id": "ef16cbace47b9b3b9526781a2a7891e84f6b81b0bbfb708dad2aa8db56db7706",
+    "position": "Performance Analyst - CUPE ESC",
+    "company": "Ontario Health",
+    "country": "Canada",
+    "location": "Ontario",
+    "category": "Data Analyst",
+    "programming": [
+        "sql"
+    ],
+    "degree": [
+        "master",
+        "bachelor"
+    ],
+    "BI": [
+        "excel"
+    ],
+    "cloud": [
+        "etms",
+        "hcrs"
+    ],
+    "date": "2022-06-26 13:39:36"
+},
+{
+    "_id": "335bbee256711ee7d044a6a931bfd6bb26ae149b021efb6bf53df9df1bbbb1f4",
+    "position": "BI Analyst",
+    "company": "Fantuan",
+    "country": "Canada",
+    "location": "Vancouver, BC",
+    "category": "Data Analyst",
+    "degree": [
+        "bachelor"
+    ],
+    "major": [
+        "computer science",
+        "applied mathematics",
+        "statistics"
+    ],
+    "programming": [
+        "javascript",
+        "sql",
+        "python",
+        "java"
+    ],
+    "BI": [
+        "power bi"
+    ],
+    "date": "2022-06-26 13:39:38"
+},
+{
+    "_id": "f784fb4f5e72fd2ad82c4506e533a844a9714b51d3e7dc48efa3ba4fa618fcb0",
+    "position": "Data Science Analyst",
+    "company": "Numeris",
+    "country": "Canada",
+    "location": "Remote",
+    "category": "Data Scientist",
+    "cloud": [
+        "frequentist"
+    ],
+    "programming": [
+        "mcmc",
+        "python",
+        "sas",
+        "r",
+        "sql"
+    ],
+    "DB": [
+        "oracle",
+        "sql server"
+    ],
+    "BI": [
+        "excel"
+    ],
+    "date": "2022-06-26 13:39:45"
+},
+{
+    "_id": "18b2118a3ccba952b4ddb66c4f5c05b7079eb10b3a288fb5ea1ad4ab731970b4",
+    "position": "Data Analyst",
+    "company": "Boreala Management",
+    "country": "Canada",
+    "location": "Remote",
+    "category": "Data Analyst",
+    "BI": [
+        "excel"
+    ],
+    "degree": [
+        "master",
+        "bachelor"
+    ],
+    "date": "2022-06-26 13:39:52"
+},
+{
+    "_id": "df736cf56ace5ce4bea354d9de7758e712aeafe1c1144c6d2fc96d1a25a3aeb0",
+    "position": "Data Analyst - North American Integrated Analytics Team",
+    "company": "Munich Re",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "programming": [
+        "python"
+    ],
+    "degree": [
+        "bachelor"
+    ],
+    "major": [
+        "evaluation",
+        "engineering",
+        "applied mathematics",
+        "computer science",
+        "data science"
+    ],
+    "cloud": [
+        "azure"
+    ],
+    "BI": [
+        "tableau",
+        "powerbi"
+    ],
+    "date": "2022-06-26 13:39:55"
+},
+{
+    "_id": "00d22be81c2b60fe4a47865f64d6badd3a03e46f6eec484d41e7aacdb27439cf",
+    "position": "database analyst",
+    "company": "WTC Group Inc.",
+    "country": "Canada",
+    "location": "Port Coquitlam, BC",
+    "category": "Data Analyst",
+    "date": "2022-06-26 13:39:58"
+},
+{
+    "_id": "f739f14c332888506310fa536d83e32ac9eb74924717ff2e3cf5640c97deb7c1",
+    "position": "Functional Analyst - Data",
+    "company": "CTConsultants",
+    "country": "Canada",
+    "location": "Remote",
+    "category": "Data Analyst",
+    "degree": [
+        "bachelor"
+    ],
+    "major": [
+        "computer science",
+        "it",
+        "business administration"
+    ],
+    "programming": [
+        "bdd"
+    ],
+    "date": "2022-06-26 13:40:01"
+},
+{
+    "_id": "8aeaa242ce89bf18f1b294024559ee898b0f6c4e196a77619c95fde5b2cfac0d",
+    "position": "BI & Data Analyst",
+    "company": "Oxford Properties",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "BI": [
+        "power query,",
+        "excel",
+        "power query",
+        "power bi",
+        "tableau"
+    ],
+    "major": [
+        "computer science",
+        "mathematics",
+        "accounting"
+    ],
+    "DB": [
+        "vba macros",
+        "oxford"
+    ],
+    "programming": [
+        "sql"
+    ],
+    "date": "2022-06-26 13:40:02"
+},
+{
+    "_id": "0b62e767d547503e89a128066a24256b92e0da339a11abcf3941de4f8bc38a6c",
+    "position": "Inventory Data Analyst, Mining",
+    "company": "Liebherr-Canada Ltd.",
+    "country": "Canada",
+    "location": "Acheson, AB",
+    "category": "Data Analyst",
+    "programming": [
+        "mauricio.sanchez@liebherr.com",
+        "sql"
+    ],
+    "BI": [
+        "excel"
+    ],
+    "cloud": [
+        "10440"
+    ],
+    "date": "2022-06-26 13:40:16"
+},
+{
+    "_id": "337ef312f478bcf4e14743a768196088f595627d795fd4355429f371634a525b",
+    "position": "Senior Data Analyst - Remote",
+    "company": "Elemy",
+    "country": "Canada",
+    "location": "Remote",
+    "category": "Data Analyst",
+    "programming": [
+        "python",
+        "r",
+        "sql"
+    ],
+    "cloud": [
+        "snowflake",
+        "periscope"
+    ],
+    "BI": [
+        "looker",
+        "tableau"
+    ],
+    "date": "2022-06-26 13:40:20"
+},
+{
+    "_id": "9a21a87d3496022165cfea6944ec68cab7a74c2e56611c364347bd7945d26b75",
+    "position": "Senior Data Analyst - Full Time - 13 month contract",
+    "company": "Acclaim Health",
+    "country": "Canada",
+    "location": "Ontario",
+    "category": "Data Analyst",
+    "programming": [
+        "5:00pm"
+    ],
+    "BI": [
+        "excel"
+    ],
+    "major": [
+        "health informatics"
+    ],
+    "date": "2022-06-26 13:40:21"
+},
+{
+    "_id": "b83c7e94a4217bca8e870f516e412b9e30ee7dfe33f7f0cd7937f39168f6e4d2",
+    "position": "Data Analyst",
+    "company": "TD SYNNEX",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "BI": [
+        "excel",
+        "synnextraordinary",
+        "powerbi"
+    ],
+    "degree": [
+        "bachelor"
+    ],
+    "major": [
+        "economics",
+        "mathematics",
+        "finance"
+    ],
+    "programming": [
+        "sql"
+    ],
+    "DB": [
+        "access"
+    ],
+    "date": "2022-06-26 13:40:22"
+},
+{
+    "_id": "5d50b2e93d26b89b2cb29601617c2cd530ef0e0fab087bd209ee70787a1bf95c",
+    "position": "Game Analyst",
+    "company": "Ubisoft",
+    "country": "Canada",
+    "location": "Quebec City, QC",
+    "category": "Data Analyst",
+    "major": [
+        "marketing",
+        "economics",
+        "computer engineering",
+        "applied mathematics"
+    ],
+    "degree": [
+        "bachelor"
+    ],
+    "programming": [
+        "python",
+        "r",
+        "sql"
+    ],
+    "BI": [
+        "excel",
+        "tableau"
+    ],
+    "DB": [
+        "sql server"
+    ],
+    "date": "2022-06-26 13:40:24"
+},
+{
+    "_id": "b86f61d9652921b1e09bdee62108a9bea667bc1ac29f607a79596ddb03425549",
+    "position": "EDI Data Analyst",
+    "company": "Western University",
+    "country": "Canada",
+    "location": "London, ON",
+    "category": "Data Analyst",
+    "programming": [
+        "hrhelp@uwo.ca"
+    ],
+    "date": "2022-06-26 13:40:25"
+},
+{
+    "_id": "2f20d6ac202cdf020ec53a37b54b04c7d80bc5d00dcaca251afc7370c358a599",
+    "position": "Data Analyst, Data Management",
+    "company": "Connor, Clark & Lunn Financial Group",
+    "country": "Canada",
+    "location": "Remote",
+    "category": "Data Analyst",
+    "major": [
+        "computer science",
+        "data science",
+        "mathematics",
+        "finance"
+    ],
+    "programming": [
+        "pdf"
+    ],
+    "date": "2022-06-26 13:40:27"
+},
+{
+    "_id": "55e58dba7134e0871d43f44f37c74d964d5bfbc06e840968fcdaccb3015c1cd4",
+    "position": "Planning Data Analyst (Planner Specialist)",
+    "company": "City of Kelowna",
+    "country": "Canada",
+    "location": "Kelowna, BC",
+    "category": "Data Analyst",
+    "major": [
+        "urban geography",
+        "computer literacy",
+        "architecture"
+    ],
+    "programming": [
+        "f"
+    ],
+    "date": "2022-06-26 13:40:28"
+},
+{
+    "_id": "266b8528459ae88d4ef3b65b72657a74801237e254f21d6d2fed5c917c16f7ac",
+    "position": "Data Analyst, Revenue",
+    "company": "Rogers Communications",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "programming": [
+        "python",
+        "sas",
+        "sql"
+    ],
+    "degree": [
+        "bachelor"
+    ],
+    "major": [
+        "computer science",
+        "statistics"
+    ],
+    "BI": [
+        "power bi",
+        "tableau"
+    ],
+    "date": "2022-06-26 13:40:29"
+},
+{
+    "_id": "401e96d93ff21b42c2f1f718e4db8fe9aab5e40d694eb2962d92e9799c89be89",
+    "position": "Senior Data Analyst (Ottawa Hub location)",
+    "company": "Scotiabank",
+    "country": "Canada",
+    "location": "Ottawa, ON",
+    "category": "Data Analyst",
+    "cloud": [
+        "152051"
+    ],
+    "major": [
+        "data analysis"
+    ],
+    "programming": [
+        "sql"
+    ],
+    "date": "2022-06-26 13:40:43"
+},
+{
+    "_id": "9e6a15d120ece59fd9df55114b0a8e6469bf1b894981944e4372eadc498b48ee",
+    "position": "Data Analyst",
+    "company": "SYNITI",
+    "country": "Canada",
+    "location": "Moncton, NB",
+    "category": "Data Analyst",
+    "major": [
+        "computer science",
+        "engineering"
+    ],
+    "programming": [
+        "pl/sql",
+        "sql"
+    ],
+    "DB": [
+        "oracle",
+        "microsoft sql server"
+    ],
+    "date": "2022-06-26 13:40:44"
+},
+{
+    "_id": "db2fbf00fb4af1555d5f2b7d5656abe5a1412c689c208036fc2cbe734f650fd0",
+    "position": "Data Analyst – Subscription Analytics",
+    "company": "Torstar",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "major": [
+        "toronto.com",
+        "wheels.ca",
+        "google analytics"
+    ],
+    "BI": [
+        "cognos",
+        "verticalscope",
+        "excel",
+        "save.ca",
+        "power bi",
+        "tableau"
+    ],
+    "cloud": [
+        "omniture"
+    ],
+    "programming": [
+        "python",
+        "r",
+        "sql"
+    ],
+    "date": "2022-06-26 13:40:46"
+},
+{
+    "_id": "e50b7eb71ecbbab04a274e4701e8c221c9f916b71603bf4a41c7b815894068dd",
+    "position": "Data Analyst, Business Intelligence, Problem Management",
+    "company": "BELL BUSINESS MARKETS",
+    "country": "Canada",
+    "location": "Mississauga, ON",
+    "category": "Data Analyst",
+    "DB": [
+        "electrical engineering"
+    ],
+    "BI": [
+        "microstrategy",
+        "excel"
+    ],
+    "date": "2022-06-26 13:40:48"
+},
+{
+    "_id": "c3a71eea46aa8382ab1d61fb27be0f7fb0072049a4d88a9cc2a9808f5866667a",
+    "position": "SENIOR RESEARCH ANALYST (DATABASE ADMINISTRATOR)",
+    "company": "Treasury Board Secretariat",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "programming": [
+        "python",
+        "tb-180650/22",
+        "sql"
+    ],
+    "cloud": [
+        "azure"
+    ],
+    "DB": [
+        "microsoft sql server"
+    ],
+    "date": "2022-06-26 13:40:50"
+},
+{
+    "_id": "f2cc271668af27b05aaa28ec80ba191f38b5d04a88d416f96ecc8238e1a4e71e",
+    "position": "Data Analyst - Mobile QV",
+    "company": "Electronic Arts",
+    "country": "Canada",
+    "location": "Vancouver, BC",
+    "category": "Data Analyst",
+    "programming": [
+        "python",
+        "sql"
+    ],
+    "degree": [
+        "master"
+    ],
+    "major": [
+        "computer science",
+        "mathematics",
+        "engineering",
+        "statistics"
+    ],
+    "BI": [
+        "power bi"
+    ],
+    "date": "2022-06-26 13:40:52"
+},
+{
+    "_id": "407f9b5b0aeee015499a29283ea45e2ce0657eb9f7a871160902d1dca65dca2b",
+    "position": "Data Analyst, Business Intelligence (Toronto)",
+    "company": "StackAdapt",
+    "country": "Canada",
+    "location": "Canada",
+    "category": "Data Analyst",
+    "degree": [
+        "master",
+        "bachelor"
+    ],
+    "major": [
+        "economics",
+        "math",
+        "statistics"
+    ],
+    "programming": [
+        "python",
+        "r",
+        "sql"
+    ],
+    "BI": [
+        "qlik",
+        "looker",
+        "google data studio",
+        "tableau"
+    ],
+    "date": "2022-06-26 13:40:53"
+},
+{
+    "_id": "82fac35fc26aba6aacf79b214ba957d12e09e66471edeae085ec3cbf2789c52b",
+    "position": "Data Quality Analyst (Full-Time Contract)",
+    "company": "South Calgary Primary Care Network",
+    "country": "Canada",
+    "location": "Calgary, AB",
+    "category": "Data Analyst",
+    "programming": [
+        "1800 194 avenue",
+        "sql"
+    ],
+    "BI": [
+        "qlik",
+        "excel"
+    ],
+    "cloud": [
+        "medaccess",
+        "sql"
+    ],
+    "major": [
+        "college",
+        "software engineering",
+        "computer science"
+    ],
+    "DB": [
+        "sql server"
+    ],
+    "date": "2022-06-26 13:40:54"
+},
+{
+    "_id": "2ef976bb24512f3ec0f278d4ef1b5b6a9ae1d5037885c677e261cc8d94d8ba71",
+    "position": "Support Data Analyst (Python)",
+    "company": "ATP",
+    "country": "Canada",
+    "location": "Remote",
+    "category": "Data Analyst",
+    "programming": [
+        "java",
+        "python",
+        "sql"
+    ],
+    "cloud": [
+        "aws"
+    ],
+    "date": "2022-06-26 13:40:56"
+},
+{
+    "_id": "bb5247ae1417c74ed840e208380f25b2443da256e981d7b2ab64f7b8a943bc98",
+    "position": "Data Analyst",
+    "company": "DRW",
+    "country": "Canada",
+    "location": "Montréal, QC",
+    "category": "Data Analyst",
+    "degree": [
+        "bachelor"
+    ],
+    "major": [
+        "computer science",
+        "economics",
+        "information technology"
+    ],
+    "programming": [
+        "python"
+    ],
+    "cloud": [
+        "https://drw.com/california-privacy-notice"
+    ],
+    "date": "2022-06-26 13:41:02"
+},
+{
+    "_id": "d5a01a7eea1705da3645150624cc473815d52296980127d498a9d21347e60009",
+    "position": "Internal Control - Regulatory Controls, Regulatory Data Analyst (Fall 2022 Internship)",
+    "company": "Scotiabank",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "cloud": [
+        "glance"
+    ],
+    "programming": [
+        "vba",
+        "python"
+    ],
+    "DB": [
+        "poewrbi"
+    ],
+    "BI": [
+        "excel"
+    ],
+    "date": "2022-06-26 13:41:12"
+},
+{
+    "_id": "b1c4c5183e0b0a6e70bf75f5c7f3e6a99a0e37ef47fc1e65d40815c6fa272f8e",
+    "position": "Senior Analyst, Business Intelligence",
+    "company": "NORQUEST COLLEGE",
+    "country": "Canada",
+    "location": "Edmonton, AB",
+    "category": "Data Analyst",
+    "cloud": [
+        "norquesters"
+    ],
+    "degree": [
+        "bachelor"
+    ],
+    "major": [
+        "computer science",
+        "computer engineering"
+    ],
+    "programming": [
+        "sql"
+    ],
+    "BI": [
+        "power query,"
+    ],
+    "date": "2022-06-26 13:41:13"
+},
+{
+    "_id": "f08a9ecc145151abafd881eb4b1e3bc9483a71179a67e38343d10933201df848",
+    "position": "Junior Data Analyst",
+    "company": "University of Waterloo",
+    "country": "Canada",
+    "location": "Waterloo, ON",
+    "category": "Data Analyst",
+    "programming": [
+        "sas"
+    ],
+    "DB": [
+        "spss",
+        "sas and/or r"
+    ],
+    "major": [
+        "biostatistics",
+        "math"
+    ],
+    "BI": [
+        "excel"
+    ],
+    "date": "2022-06-26 13:41:18"
+},
+{
+    "_id": "7d0513b6692bd2286191cc4e27e98198e009b837f24f03a146c73f09ff95d355",
+    "position": "Sr. Data Analyst – Campaign Decisioning",
+    "company": "Royal Bank of Canada",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "major": [
+        "computer science",
+        "marketing",
+        "mathematics",
+        "statistics"
+    ],
+    "programming": [
+        "r",
+        "python",
+        "sas",
+        "sql"
+    ],
+    "DB": [
+        "teradata"
+    ],
+    "date": "2022-06-26 13:41:20"
+},
+{
+    "_id": "4ecf644220db47f76ca386fbd6d0e6c706469d70b5d9db2f2f071342daddd4ea",
+    "position": "Analyst, Business Systems IWMS",
+    "company": "Vancouver Coastal Health",
+    "country": "Canada",
+    "location": "Vancouver, BC",
+    "category": "Data Analyst",
+    "degree": [
+        "bachelor"
+    ],
+    "major": [
+        "computer science"
+    ],
+    "programming": [
+        "2021"
+    ],
+    "date": "2022-06-26 13:41:21"
+},
+{
+    "_id": "b06921e571265e6a14901b2500a4994e3cf11bc71642aecbdd7ebf789bdcb551",
+    "position": "Data Analyst, Authoritative Platforms",
+    "company": "BMO Financial Group",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "cloud": [
+        "snowflake",
+        "aws"
+    ],
+    "BI": [
+        "power bi"
+    ],
+    "date": "2022-06-26 13:41:23"
+},
+{
+    "_id": "91d604cc2011d3545d28ddaa0b38f16333250aeb7bf65511680055e024a43ac8",
+    "position": "Data Analyst",
+    "company": "Unity Technologies",
+    "country": "Canada",
+    "location": "Remote",
+    "category": "Data Analyst",
+    "cloud": [
+        "snowflake",
+        "google",
+        "redshift",
+        "google big query"
+    ],
+    "programming": [
+        "la",
+        "python",
+        "appareils",
+        "les",
+        "à",
+        "de",
+        "r",
+        "sql",
+        "des",
+        "studio"
+    ],
+    "DB": [
+        "des",
+        "datawarehouse",
+        "relational"
+    ],
+    "BI": [
+        "la",
+        "google",
+        "looker",
+        "têtes",
+        "l'origine",
+        "une",
+        "à",
+        "de",
+        "tableau"
+    ],
+    "date": "2022-06-26 13:41:36"
+},
+{
+    "_id": "772190340c126b615da22f8bb841f40dd1c94f43a170f3b31be5ac7eaa33a8a7",
+    "position": "Data Analyst",
+    "company": "Woodlands Head Office",
+    "country": "Canada",
+    "location": "Saint John, NB",
+    "category": "Data Analyst",
+    "BI": [
+        "cognos",
+        "power bi",
+        "alteryx",
+        "tableau"
+    ],
+    "programming": [
+        "python",
+        "r",
+        "sql"
+    ],
+    "major": [
+        "computer science",
+        "degree",
+        "business information",
+        "business administration"
+    ],
+    "cloud": [
+        "cognos"
+    ],
+    "date": "2022-06-26 13:41:37"
+},
+{
+    "_id": "f69ba3325ad972a3e0ca9357a3a22b2df5b80f406ac79af1f2b8166bdd7d6b9e",
+    "position": "Reporting Analyst - Business Enablement",
+    "company": "Alberta Blue Cross",
+    "country": "Canada",
+    "location": "Edmonton, AB",
+    "category": "Data Analyst",
+    "major": [
+        "it",
+        "statistics",
+        "mathematics",
+        "computer science",
+        "diploma",
+        "business"
+    ],
+    "DB": [
+        "oracle sql"
+    ],
+    "BI": [
+        "microstrategy",
+        "excel",
+        "tableau"
+    ],
+    "date": "2022-06-26 13:41:39"
+},
+{
+    "_id": "da85838e015c76bdbf1d267b9dcf234ea59c2d0072a50dcc7a1ee8644d5f3161",
+    "position": "Sr Data Analyst, Sports",
+    "company": "Rogers Communications",
+    "country": "Canada",
+    "location": "Temporarily remote",
+    "category": "Data Analyst",
+    "programming": [
+        "b",
+        "python",
+        "sql"
+    ],
+    "BI": [
+        "excel",
+        "tableau"
+    ],
+    "DB": [
+        "adobe analytics"
+    ],
+    "major": [
+        "google analytics"
+    ],
+    "date": "2022-06-26 13:41:40"
+},
+{
+    "_id": "2346e7f988b0385a033b74fce7b752599a65019195a282106135a63e20277d62",
+    "position": "Data Analyst",
+    "company": "AMBER STUDIO",
+    "country": "Canada",
+    "location": "Remote",
+    "category": "Data Analyst",
+    "BI": [
+        "power bi",
+        "powerbi"
+    ],
+    "major": [
+        "computer science",
+        "mathematics"
+    ],
+    "date": "2022-06-26 13:41:41"
+},
+{
+    "_id": "546a460660238f33ee2cf309993719294ab169fe7add40d9d6fa0832937d904c",
+    "position": "Analyst, Analytics",
+    "company": "Ontario Health",
+    "country": "Canada",
+    "location": "Ontario",
+    "category": "Data Analyst",
+    "programming": [
+        "vba",
+        "r",
+        "python",
+        "sas"
+    ],
+    "BI": [
+        "excel",
+        "powerbi"
+    ],
+    "major": [
+        "health informatics",
+        "engineering",
+        "statistics",
+        "biostatistics",
+        "epidemiology"
+    ],
+    "date": "2022-06-26 13:41:42"
+},
+{
+    "_id": "d12ce44d97ca99f39fbbd416ea82ce41b7bea18b15fc583902bda7ef25bc481f",
+    "position": "Data Analyst",
+    "company": "REW",
+    "country": "Canada",
+    "location": "Hybrid remote",
+    "category": "Data Analyst",
+    "BI": [
+        "powerbi",
+        "tableau"
+    ],
+    "degree": [
+        "bachelor"
+    ],
+    "major": [
+        "computer science"
+    ],
+    "programming": [
+        "python",
+        "sql"
+    ],
+    "date": "2022-06-26 13:41:45"
+},
+{
+    "_id": "c0886ffedb003a3983086f3d3a21a17c07d0fa3edf914de8ff917f795ecd8e12",
+    "position": "Data Analyst BCEHS",
+    "company": "PHSA",
+    "country": "Canada",
+    "location": "Saanichton, BC",
+    "category": "Data Analyst",
+    "BI": [
+        "microstrategy",
+        "excel",
+        "2021"
+    ],
+    "DB": [
+        "access",
+        "oracle",
+        "sql server"
+    ],
+    "programming": [
+        "studio",
+        "pl/sql"
+    ],
+    "major": [
+        "computer science",
+        "health"
+    ],
+    "date": "2022-06-26 13:41:46"
+},
+{
+    "_id": "a609ef1614b0e03a7ce0a9eb5c95993f0627b949925147b791e2a3fc70b7e6fc",
+    "position": "Senior Data Analyst - Product (Remote)",
+    "company": "SnapTravel",
+    "country": "Canada",
+    "location": "Remote",
+    "category": "Data Analyst",
+    "programming": [
+        "excel",
+        "python",
+        "sql"
+    ],
+    "BI": [
+        "looker"
+    ],
+    "cloud": [
+        "google",
+        "snowflake",
+        "amplitude"
+    ],
+    "date": "2022-06-26 13:41:50"
+},
+{
+    "_id": "8be0fefabf7cce9dd731e255ba23ed4386bf26a2998d9bcc405d2578b8e6a801",
+    "position": "Data Analyst",
+    "company": "Lucova",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "programming": [
+        "e",
+        "sql"
+    ],
+    "BI": [
+        "excel",
+        "tableau"
+    ],
+    "DB": [
+        "nosql",
+        "sql server"
+    ],
+    "cloud": [
+        "amazon"
+    ],
+    "major": [
+        "commerce"
+    ],
+    "date": "2022-06-26 13:41:55"
+},
+{
+    "_id": "463fd184a767b507580eb9feb35eb32ed697fa9815fde805e918f5787eaa0d9c",
+    "position": "ANALYSTE DE DONNÉES/ DATA ANALYST",
+    "company": "Frima Studio",
+    "country": "Canada",
+    "location": "Remote",
+    "category": "Data Analyst",
+    "programming": [
+        "d'extraire",
+        "python",
+        "de python",
+        "les",
+        "qui",
+        "à",
+        "de",
+        "à l’échelle",
+        "jeu",
+        "sql",
+        "des",
+        "dans"
+    ],
+    "BI": [
+        "d'autres",
+        "l'analyse",
+        "communauto",
+        "ainsi",
+        "améliorer",
+        "une",
+        "qui",
+        "à",
+        "excel",
+        "jeu",
+        "de",
+        "power bi",
+        "tableau"
+    ],
+    "DB": [
+        "données",
+        "des"
+    ],
+    "cloud": [
+        "que des",
+        "d'obtenir"
+    ],
+    "degree": [
+        "à",
+        "bachelor"
+    ],
+    "major": [
+        "data science",
+        "mathematics",
+        "statistics"
+    ],
+    "date": "2022-06-26 13:42:04"
+},
+{
+    "_id": "de417a6a37a28bad69355745002ccba8e79e364ecc7b3005dbbada7edece5a55",
+    "position": "Analyst, Data Engineering",
+    "company": "J.D. Power",
+    "country": "Canada",
+    "location": "Remote",
+    "category": "Data Analyst",
+    "major": [
+        "econometrics",
+        "finance",
+        "engineering",
+        "statistics"
+    ],
+    "programming": [
+        "python",
+        "r",
+        "sql"
+    ],
+    "cloud": [
+        "j.d.",
+        "stata"
+    ],
+    "degree": [
+        "j.d .",
+        "bachelor"
+    ],
+    "date": "2022-06-26 13:42:08"
+},
+{
+    "_id": "6f98697ab91e252a97a64f2c74c82d5b572542c223106da4905283db94900a3b",
+    "position": "data analyst - informatics and systems",
+    "company": "Methodhub Canada",
+    "country": "Canada",
+    "location": "Remote",
+    "category": "Data Analyst",
+    "major": [
+        "information sciences"
+    ],
+    "programming": [
+        "db",
+        "sql",
+        "java"
+    ],
+    "DB": [
+        "oracle",
+        "sql server"
+    ],
+    "date": "2022-06-26 13:42:10"
+},
+{
+    "_id": "7c8c2364646bd0c616d97ab6411151558deaf8b22fe5bc58b9d6e790a1486738",
+    "position": "Data Analyst | Analyste de données",
+    "company": "Behaviour Interactive",
+    "country": "Canada",
+    "location": "Montréal, QC",
+    "category": "Data Analyst",
+    "programming": [
+        "avec python",
+        "à",
+        "jeu",
+        "r",
+        "sql",
+        "des",
+        "de sql",
+        "dans"
+    ],
+    "BI": [
+        "bonnes",
+        "une",
+        "à",
+        "jeu",
+        "de",
+        "power bi"
+    ],
+    "DB": [
+        "nosql"
+    ],
+    "cloud": [
+        "snowflake",
+        "aws",
+        "curieux"
+    ],
+    "date": "2022-06-26 13:42:11"
+},
+{
+    "_id": "0180126f951cf41e3bb7047930e0fadce6c8f7f8452a4840178efdbeb027fe54",
+    "position": "Health Data Analyst",
+    "company": "Sioux Lookout First Nations Health Authority",
+    "country": "Canada",
+    "location": "Sioux Lookout, ON",
+    "category": "Data Analyst",
+    "major": [
+        "biostatistics",
+        "health promotion",
+        "epidemiology",
+        "public health"
+    ],
+    "DB": [
+        "access",
+        "spss"
+    ],
+    "programming": [
+        "excel"
+    ],
+    "date": "2022-06-26 13:42:13"
+},
+{
+    "_id": "c69e2f24fd72564307f863386015b8d6a2f751fa8d4b806caca4e82ad3b6a6fc",
+    "position": "Senior Records and Information Management Analyst (Records Analyst 2)",
+    "company": "Province of Nova Scotia",
+    "country": "Canada",
+    "location": "Halifax, NS",
+    "category": "Data Analyst",
+    "degree": [
+        "bachelor"
+    ],
+    "BI": [
+        "competitions@novascotia.ca",
+        "excel"
+    ],
+    "DB": [
+        "access",
+        "interview(s"
+    ],
+    "date": "2022-06-26 13:42:17"
+},
+{
+    "_id": "a7a44431e4cb3ec68d1ce81223e5b190e26903438d1c5728c367eb8b03ca59da",
+    "position": "Senior Analyst - NACCC",
+    "company": "BMO Financial Group",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "BI": [
+        "spotfire",
+        "tableau"
+    ],
+    "programming": [
+        "python",
+        "matlab",
+        "sas",
+        "r",
+        "sql"
+    ],
+    "date": "2022-06-26 13:42:20"
+},
+{
+    "_id": "c99c6ed7b415804166743021fdb11904259fb6d418077a604e06d851a2309f45",
+    "position": "Assurance Experience Management, Data Analyst",
+    "company": "EY",
+    "country": "Canada",
+    "location": "Remote",
+    "category": "Data Analyst",
+    "BI": [
+        "power bi",
+        "excel",
+        "tableau"
+    ],
+    "degree": [
+        "bachelor"
+    ],
+    "date": "2022-06-26 13:42:28"
+},
+{
+    "_id": "6a3631dcfc22c3f14ecc8dcc526e092f63f8c106a59363e9747ece48db4afc70",
+    "position": "Senior Data Analyst, AVP - Remote Worker – Ontario Based",
+    "company": "Citi",
+    "country": "Canada",
+    "location": "Remote",
+    "category": "Data Analyst",
+    "programming": [
+        "python",
+        "sql"
+    ],
+    "date": "2022-06-26 13:42:33"
+},
+{
+    "_id": "95861f260f9b38f0aca12fb1e9623ee35ec94041dd8b2e32489cc4a6ef5db7d0",
+    "position": "database analyst",
+    "company": "ANANTA ENTERPRISES LTD",
+    "country": "Canada",
+    "location": "Edmonton, AB",
+    "category": "Data Analyst",
+    "date": "2022-06-26 13:42:36"
+},
+{
+    "_id": "e40a0551dae6157f0e3ff4b87122c2c630bb90e7dc223968a7c681cae96806a1",
+    "position": "Data Analyst",
+    "company": "Tikinagan Child & Family Services",
+    "country": "Canada",
+    "location": "Sioux Lookout, ON",
+    "category": "Data Analyst",
+    "major": [
+        "college diploma"
+    ],
+    "programming": [
+        "sql"
+    ],
+    "BI": [
+        "powerbi"
+    ],
+    "cloud": [
+        "vsc"
+    ],
+    "date": "2022-06-26 13:42:37"
+},
+{
+    "_id": "be869c6d2429c80d8e8603f23ec05304233446b87a725143df0efea23657364c",
+    "position": "Product Data Analyst, Music",
+    "company": "Nielsen",
+    "country": "Canada",
+    "location": "Halifax, NS",
+    "category": "Data Analyst",
+    "cloud": [
+        "aws",
+        "gracenote"
+    ],
+    "programming": [
+        "python",
+        "sql"
+    ],
+    "major": [
+        "computer science",
+        "math"
+    ],
+    "date": "2022-06-26 13:42:38"
+},
+{
+    "_id": "20bb82cf1a182bd90205b09ce41408c7a85a78414529747c9f88a74782bf9e1b",
+    "position": "SURVEILLANCE COORDINATOR AND DATA ANALYST",
+    "company": "Ministry of Agriculture, Food and Rural Affairs",
+    "country": "Canada",
+    "location": "Guelph, ON",
+    "category": "Data Analyst",
+    "programming": [
+        "g"
+    ],
+    "major": [
+        "economics"
+    ],
+    "date": "2022-06-26 13:42:41"
+},
+{
+    "_id": "02ade4e9e213a3250faa8b587eb6d2b1d7005b5b87bdaec797741df771869816",
+    "position": "Data Visualization Tableau Specialist",
+    "company": "Capgemini",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "BI": [
+        "power bi",
+        "tableau"
+    ],
+    "programming": [
+        "python",
+        "shell",
+        "sql"
+    ],
+    "DB": [
+        "sql pl sql queries"
+    ],
+    "degree": [
+        "bachelor"
+    ],
+    "date": "2022-06-26 13:42:42"
+},
+{
+    "_id": "b486737e3cc11d3bb0cbd69883aace844eb2548cf30f94037f7b7c1c287d86b9",
+    "position": "Big Data Integration Orchestration Analyst",
+    "company": "CIBC",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "major": [
+        "computer science",
+        "business"
+    ],
+    "date": "2022-06-26 13:42:55"
+},
+{
+    "_id": "ca63c1218168ca793f855b433b881f1e349e8d3fa79103703ecc0746442e93c1",
+    "position": "Data Analyst",
+    "company": "Aecon Group",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "programming": [
+        "sac"
+    ],
+    "BI": [
+        "power bi"
+    ],
+    "degree": [
+        "bachelor"
+    ],
+    "major": [
+        "commerce",
+        "computer engineering",
+        "computer science"
+    ],
+    "date": "2022-06-26 13:42:58"
+},
+{
+    "_id": "96df65bf4e6ccc2e14341457caaacdf7c3b0ba3aaa18ea1ea6fb1e520c09e66f",
+    "position": "Analyst, Business",
+    "company": "City of Mississauga",
+    "country": "Canada",
+    "location": "Remote",
+    "category": "Data Analyst",
+    "major": [
+        "commerce",
+        "business",
+        "science"
+    ],
+    "BI": [
+        "excel"
+    ],
+    "date": "2022-06-26 13:42:59"
+},
+{
+    "_id": "42f30f08cf1111e253beaa587625209ce27de6425e7509b6defbc26a3e4dce72",
+    "position": "Supply Chain - Analyst, Supply Chain Operations",
+    "company": "Aritzia",
+    "country": "Canada",
+    "location": "New Westminster, BC",
+    "category": "Data Analyst",
+    "date": "2022-06-26 13:43:00"
+},
+{
+    "_id": "ae5a98f5b975f8c6bfbb74d90e403f539fc982ec87107c500e57c4c1e467a004",
+    "position": "Data Research Analyst",
+    "company": "Morningstar",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "programming": [
+        "python",
+        "sql"
+    ],
+    "DB": [
+        "sql server"
+    ],
+    "date": "2022-06-26 13:43:03"
+},
+{
+    "_id": "a5946093338b1ce3978ddd770c9afc5c28a1928a1bc434ec42262600b08eddec",
+    "position": "Data Analyst, Traction Rec",
+    "company": "Uncommon Purpose",
+    "country": "Canada",
+    "location": "Remote",
+    "category": "Data Analyst",
+    "programming": [
+        "sql"
+    ],
+    "cloud": [
+        "azure"
+    ],
+    "date": "2022-06-26 13:43:04"
+},
+{
+    "_id": "d1063eecc6a472ee2591d07bcd5a82a67544a53389f931d870d91a8e95327ec1",
+    "position": "Data Analyst, Courthouse Jury",
+    "company": "Tyler Technologies, Inc.",
+    "country": "Canada",
+    "location": "Vancouver, BC",
+    "category": "Data Analyst",
+    "major": [
+        "computer science"
+    ],
+    "programming": [
+        "css",
+        "javascript",
+        "c#",
+        "sql",
+        "html",
+        "vb"
+    ],
+    "date": "2022-06-26 13:43:07"
+},
+{
+    "_id": "40115b05ee6774fe56d797a406874a04d760b005786eabec8522127be656a03f",
+    "position": "Sr. Data Analyst",
+    "company": "Manulife",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "degree": [
+        "bachelor"
+    ],
+    "major": [
+        "math",
+        "statistics"
+    ],
+    "programming": [
+        "vba",
+        "python",
+        "sql"
+    ],
+    "BI": [
+        "power bi",
+        "excel",
+        "tableau"
+    ],
+    "date": "2022-06-26 13:43:12"
+},
+{
+    "_id": "bc14a8258cda4feef9e3e9a93bb7937fb56b34cc54992252c00bbf1dcd81c793",
+    "position": "Data Analyst - Cell Biology",
+    "company": "AbCellera Biologics",
+    "country": "Canada",
+    "location": "Vancouver, BC",
+    "category": "Data Analyst",
+    "major": [
+        "cell biology",
+        "immunology",
+        "data science"
+    ],
+    "programming": [
+        "python",
+        "r",
+        "sql"
+    ],
+    "cloud": [
+        "shiny",
+        "redshift"
+    ],
+    "date": "2022-06-26 13:43:23"
+},
+{
+    "_id": "99271eb30ceb1ad204048968364344268ed0d59256dffb9cc40515d0ad569207",
+    "position": "Data Analyst (Contract)",
+    "company": "Electronic Arts",
+    "country": "Canada",
+    "location": "Vancouver, BC",
+    "category": "Data Analyst",
+    "programming": [
+        "python",
+        "sql"
+    ],
+    "BI": [
+        "power bi"
+    ],
+    "major": [
+        "computer science",
+        "operations research",
+        "engineering",
+        "statistics"
+    ],
+    "date": "2022-06-26 13:43:24"
+},
+{
+    "_id": "85b3565643d7fead7303c15d9fc266ac4067156c4690ae1148e66cacd4a420a3",
+    "position": "data analyst - informatics and systems",
+    "company": "Quantasphere Business Solutions Inc.",
+    "country": "Canada",
+    "location": "Remote",
+    "category": "Data Analyst",
+    "major": [
+        "data science"
+    ],
+    "date": "2022-06-26 13:43:27"
+},
+{
+    "_id": "1132b8e06c5c824d6389fa543729abc85c9d8fb337604d9cf5aa06e30420a489",
+    "position": "Data Analyst Engineer - VP",
+    "company": "TD Bank",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "major": [
+        "statistical"
+    ],
+    "programming": [
+        "onetick",
+        "java",
+        "javascript",
+        "python",
+        "shell",
+        "kdb",
+        "sql"
+    ],
+    "cloud": [
+        "azure"
+    ],
+    "BI": [
+        "tableau"
+    ],
+    "date": "2022-06-26 13:43:29"
+},
+{
+    "_id": "eed7b2426f295e9e30767f288bfd55984250a9e16c027222090841beea50363a",
+    "position": "Data Reporting Analyst",
+    "company": "Make-a-Wish",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "major": [
+        "statistics",
+        "mathematics",
+        "college diploma",
+        "computer science",
+        "information management"
+    ],
+    "programming": [
+        "sas",
+        "python",
+        "r",
+        "sql"
+    ],
+    "BI": [
+        "power bi",
+        "excel",
+        "spss",
+        "tableau"
+    ],
+    "date": "2022-06-26 13:43:30"
+},
+{
+    "_id": "7dfc50794ff8ba078636eff79e30eb03c6f519840fe5e8ca0b058290ec03961c",
+    "position": "Data Analyst",
+    "company": "Canada Life Assurance Company",
+    "country": "Canada",
+    "location": "Winnipeg, MB",
+    "category": "Data Analyst",
+    "programming": [
+        "excel",
+        "python",
+        "r",
+        "sql"
+    ],
+    "major": [
+        "data science"
+    ],
+    "BI": [
+        "power bi",
+        "excel",
+        "tableau"
+    ],
+    "DB": [
+        "access"
+    ],
+    "date": "2022-06-26 13:43:31"
+},
+{
+    "_id": "0e67e7be347566f990b1bf378e66d69e065dda967dea0b53ac2945a1d1ed979f",
+    "position": "Data Analyst- Contract",
+    "company": "Assent",
+    "country": "Canada",
+    "location": "Remote",
+    "category": "Data Analyst",
+    "DB": [
+        "microsoft sql server",
+        "assent"
+    ],
+    "programming": [
+        "ssis",
+        "sql"
+    ],
+    "date": "2022-06-26 13:43:32"
+},
+{
+    "_id": "ede62b7b46be938af023a5f32178766b21d375a42fd21e344c16a2b3b386c9db",
+    "position": "Statistical Analyst - Data Science",
+    "company": "Aviva",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "programming": [
+        "python"
+    ],
+    "degree": [
+        "master",
+        "bachelor"
+    ],
+    "major": [
+        "statistics",
+        "enrolled",
+        "actuarial science",
+        "computer science",
+        "math"
+    ],
+    "date": "2022-06-26 13:43:33"
+},
+{
+    "_id": "a28c3f8ed52181477b6ad11ce12ef9eba4fbed0cfafb6d4bdcb5f87cd18a4827",
+    "position": "Lab Clinical Data Analyst",
+    "company": "IQVIA",
+    "country": "Canada",
+    "location": "Remote",
+    "category": "Data Analyst",
+    "degree": [
+        "bachelor"
+    ],
+    "major": [
+        "sciences"
+    ],
+    "programming": [
+        "sas"
+    ],
+    "date": "2022-06-26 13:43:34"
+},
+{
+    "_id": "91f23119c7b74dd2c88c76772085a34c2064e5c210f9a54eeeb58ba04cf002a3",
+    "position": "Analyst, Data",
+    "company": "Ontario Health",
+    "country": "Canada",
+    "location": "Ontario",
+    "category": "Data Analyst",
+    "date": "2022-06-26 13:43:39"
+},
+{
+    "_id": "aa190c24af9601b9e95598813e825becda89de0351da532ccd528adf256b4ae9",
+    "position": "Data Analyst",
+    "company": "HSBC",
+    "country": "Canada",
+    "location": "Vancouver, BC",
+    "category": "Data Analyst",
+    "major": [
+        "computing science"
+    ],
+    "programming": [
+        "sql"
+    ],
+    "date": "2022-06-26 13:43:40"
+},
+{
+    "_id": "c1817ae1f628bdc76dd6bc3d5cad6055e30a9be6607a7f9c9ea15630c7b9ef5b",
+    "position": "Technical Data Analyst",
+    "company": "Teranet",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "degree": [
+        "bachelor"
+    ],
+    "major": [
+        "computer science",
+        "engineering"
+    ],
+    "programming": [
+        "sql"
+    ],
+    "DB": [
+        "oracle"
+    ],
+    "date": "2022-06-26 13:43:49"
+},
+{
+    "_id": "159565ca14d211a0752213f96f87f446cb50b70328df65f79f7b742cd0ac1e80",
+    "position": "Claims Reporting Analyst",
+    "company": "Royal Bank of Canada",
+    "country": "Canada",
+    "location": "Mississauga, ON",
+    "category": "Data Analyst",
+    "BI": [
+        "tableau"
+    ],
+    "programming": [
+        "python",
+        "sql"
+    ],
+    "date": "2022-06-26 13:43:53"
+},
+{
+    "_id": "2ec2a7fe4334317d0bd50bea3a5eec27b0b99e3ad64067d6613cb6b3b3eb7f36",
+    "position": "database analyst",
+    "company": "RDY ENTERPRISES LTD",
+    "country": "Canada",
+    "location": "Kelowna, BC",
+    "category": "Data Analyst",
+    "date": "2022-06-26 13:43:53"
+},
+{
+    "_id": "2fbdcaf1ef46f257cc0c7bac635a45a214ebef1c82056b2d5df7bd3a6828e03e",
+    "position": "DATA ANALYST & INTEGRATOR",
+    "company": "City of Toronto",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "BI": [
+        "tableau"
+    ],
+    "major": [
+        "research",
+        "statistics",
+        "environmental sciences",
+        "mathematics",
+        "social sciences",
+        "computer science",
+        "data science",
+        "economics",
+        "health sciences"
+    ],
+    "programming": [
+        "arcgis",
+        "python",
+        "r",
+        "sql"
+    ],
+    "DB": [
+        "oracle",
+        "mysql",
+        "sql server"
+    ],
+    "date": "2022-06-26 13:43:56"
+},
+{
+    "_id": "e5684b1e4989764a6b9b478a4ad553bb3d349718dceeff0c296f2da598dc6c8b",
+    "position": "Data Analyst, Business Intelligence",
+    "company": "Bell Canada",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "major": [
+        "mathematics",
+        "data science",
+        "engineering"
+    ],
+    "programming": [
+        "sas",
+        "sql"
+    ],
+    "DB": [
+        "teradata"
+    ],
+    "BI": [
+        "microstrategy",
+        "tableau"
+    ],
+    "date": "2022-06-26 13:43:57"
+},
+{
+    "_id": "2d4262097e8a6ae41ccd1409c2b3efe58855e9c1117525b8af3d1986a23d026d",
+    "position": "Technical Analyst (Services Support)",
+    "company": "SaskTel",
+    "country": "Canada",
+    "location": "Saskatoon, SK",
+    "category": "Data Analyst",
+    "programming": [
+        "c"
+    ],
+    "major": [
+        "electronic information",
+        "computer technology",
+        "computer science",
+        "science",
+        "engineering technology",
+        "electrical engineering"
+    ],
+    "BI": [
+        "www.sasktel.com"
+    ],
+    "date": "2022-06-26 13:43:58"
+},
+{
+    "_id": "ff1c28ad5268eb51fb666de12a4acfeb0b4ec60df745ac24d00d238a02e958d6",
+    "position": "Data Analyst",
+    "company": "Strategic Way Consulting",
+    "country": "Canada",
+    "location": "Tiverton, ON",
+    "category": "Data Analyst",
+    "DB": [
+        "odbc",
+        "sql server"
+    ],
+    "BI": [
+        "excel",
+        "power bi"
+    ],
+    "cloud": [
+        "azure"
+    ],
+    "degree": [
+        "bachelor"
+    ],
+    "major": [
+        "computer science",
+        "mathematics",
+        "statistics"
+    ],
+    "date": "2022-06-26 13:44:00"
+},
+{
+    "_id": "a362def589ff365630eff2034a8f21fb6b2a363c5135d3c19c043c01fe6d2697",
+    "position": "analyst, social policies",
+    "company": "British Columbia Assembly of First Nations",
+    "country": "Canada",
+    "location": "Remote",
+    "category": "Data Analyst",
+    "major": [
+        "resource economics"
+    ],
+    "date": "2022-06-26 13:44:01"
+},
+{
+    "_id": "d6dc2b868d79e4040bdc53063ebb3cf18e72aa2d880d596ff0b4640e11656528",
+    "position": "Data Analyst",
+    "company": "Activision",
+    "country": "Canada",
+    "location": "Vancouver, BC",
+    "category": "Data Analyst",
+    "major": [
+        "engineering"
+    ],
+    "BI": [
+        "google"
+    ],
+    "cloud": [
+        "gcp",
+        "bigquery",
+        "azure",
+        "aws"
+    ],
+    "programming": [
+        "python"
+    ],
+    "DB": [
+        "mysql"
+    ],
+    "date": "2022-06-26 13:44:04"
+},
+{
+    "_id": "ec1c4488026b27735f332515fa53e343de3641a1e2aa3399eaff564af110610d",
+    "position": "Data Analyst",
+    "company": "Tetra Tech",
+    "country": "Canada",
+    "location": "Remote",
+    "category": "Data Analyst",
+    "programming": [
+        "python",
+        "sql"
+    ],
+    "BI": [
+        "excel"
+    ],
+    "degree": [
+        "master",
+        "bachelor"
+    ],
+    "major": [
+        "computer science",
+        "mathematics",
+        "computer engineering",
+        "statistics"
+    ],
+    "date": "2022-06-26 13:44:05"
+},
+{
+    "_id": "f62b28fc48a1c4ad18762a146a98f82ea68c9fb3729170a95b9337389af906fe",
+    "position": "Junior Clinical Trials Data Analyst (Hybrid)",
+    "company": "IQVIA",
+    "country": "Canada",
+    "location": "Ottawa, ON",
+    "category": "Data Analyst",
+    "degree": [
+        "bachelor"
+    ],
+    "major": [
+        "statistics",
+        "healthcare"
+    ],
+    "programming": [
+        "r",
+        "python",
+        "sas",
+        "sql"
+    ],
+    "BI": [
+        "excel"
+    ],
+    "date": "2022-06-26 13:44:15"
+},
+{
+    "_id": "1917608e8493cedca606465965a384320d80096c00baecacf5bac422c0f45dab",
+    "position": "Data Analyst",
+    "company": "Coca-Cola Canada Bottling Limited",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "date": "2022-06-26 13:44:16"
+},
+{
+    "_id": "b6d49cb98c9c792fd260d4993f4c991b885a373a080c677565629359a900a3f1",
+    "position": "PowerBI Visualization Analyst, Data and Analytics Hub",
+    "company": "PwC",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "major": [
+        "information technology"
+    ],
+    "BI": [
+        "power bi",
+        "powerbi"
+    ],
+    "programming": [
+        "e"
+    ],
+    "date": "2022-06-26 13:44:17"
+},
+{
+    "_id": "f32642c01c723451fa3d5d87dda40380f82688d43bbebabdb1660112d88db27c",
+    "position": "Data Analyst, Consultant - GRCS Risk Consulting",
+    "company": "KPMG",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "programming": [
+        "excel",
+        "python",
+        "r",
+        "sql"
+    ],
+    "BI": [
+        "powerbi",
+        "alteryx",
+        "tableau"
+    ],
+    "major": [
+        "it",
+        "computing",
+        "systems analysis",
+        "business intelligence"
+    ],
+    "date": "2022-06-26 13:44:20"
+},
+{
+    "_id": "cbb2c7fe3cd37b0fb65aa80b595e05b501d209bf994fac7139d2fb4f914e7ae8",
+    "position": "Data Science Analyst (Remote)",
+    "company": "Yelp",
+    "country": "Canada",
+    "location": "Remote",
+    "category": "Data Analyst",
+    "degree": [
+        "b"
+    ],
+    "major": [
+        "mathematics",
+        "statistics"
+    ],
+    "programming": [
+        "matlab",
+        "python",
+        "r",
+        "sql"
+    ],
+    "BI": [
+        "looker",
+        "stata",
+        "tableau"
+    ],
+    "date": "2022-06-26 13:44:22"
+},
+{
+    "_id": "8444d361cc4e3976416767bda35e23d366dbe0b144cc046474b7f7ff3aaf980c",
+    "position": "Data & Reporting Analyst",
+    "company": "Government of Alberta",
+    "country": "Canada",
+    "location": "Hybrid remote",
+    "category": "Data Analyst",
+    "major": [
+        "statistics",
+        "mathematics",
+        "social sciences",
+        "economics",
+        "health",
+        "business"
+    ],
+    "BI": [
+        "3,355.81",
+        "power bi",
+        "excel",
+        "tableau"
+    ],
+    "programming": [
+        "r and/or python",
+        "python",
+        "sas",
+        "r",
+        "vba"
+    ],
+    "date": "2022-06-26 13:44:24"
+},
+{
+    "_id": "5671404ea15160e7d55eb24548af497098eca7161bd84a2dd5225bc7c4ca75c5",
+    "position": "Business Intelligence Analyst",
+    "company": "Penny AI",
+    "country": "Canada",
+    "location": "Remote",
+    "category": "Data Analyst",
+    "major": [
+        "computer science",
+        "mathematics",
+        "engineering"
+    ],
+    "programming": [
+        "python",
+        "r",
+        "sql"
+    ],
+    "date": "2022-06-26 13:44:25"
+},
+{
+    "_id": "0052586e94913db8e55cfa168a055b3f0621ab4954499dc1751583705fae2bae",
+    "position": "Data Analyst (18 Month Contract)",
+    "company": "County of Essex",
+    "country": "Canada",
+    "location": "Essex, ON",
+    "category": "Data Analyst",
+    "degree": [
+        "bachelor"
+    ],
+    "date": "2022-06-26 13:44:26"
+},
+{
+    "_id": "14e00889a1230629365f9b2e9adce5389420439f1ca24044c01b5676fef1bd40",
+    "position": "Data Analyst (Power BI, SQL, Calgary, Toronto)",
+    "company": "Triovest Realty Advisors",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "BI": [
+        "powerbi"
+    ],
+    "major": [
+        "finance",
+        "business administration"
+    ],
+    "date": "2022-06-26 13:44:27"
+},
+{
+    "_id": "892059514f1f06f8c25cfe1ee418236be815949b7898564988ed34fb28e127cf",
+    "position": "Data Migration Analyst",
+    "company": "Canadian Red Cross",
+    "country": "Canada",
+    "location": "Remote",
+    "category": "Data Analyst",
+    "BI": [
+        "power bi",
+        "excel"
+    ],
+    "cloud": [
+        "azure"
+    ],
+    "degree": [
+        "bachelor"
+    ],
+    "major": [
+        "mathematics"
+    ],
+    "programming": [
+        "python",
+        "r",
+        "sql"
+    ],
+    "date": "2022-06-26 13:44:28"
+},
+{
+    "_id": "308b6354ccc46dcd920177805de1fa1b5b38918c0da90b1f974bcbae60749d5c",
+    "position": "Bus Intelligence Analyst",
+    "company": "Government of Alberta",
+    "country": "Canada",
+    "location": "Remote",
+    "category": "Data Analyst",
+    "BI": [
+        "google chrome",
+        "albertans",
+        "excel",
+        "liliane.karara@gov.ab.ca"
+    ],
+    "date": "2022-06-26 13:44:30"
+},
+{
+    "_id": "a3bf55e087b4c240a6e41e2362e7c649a16d10100bf37261d51b181114c10516",
+    "position": "Data Analyst – Remote",
+    "company": "League Inc",
+    "country": "Canada",
+    "location": "Remote",
+    "category": "Data Analyst",
+    "programming": [
+        "sql"
+    ],
+    "BI": [
+        "looker"
+    ],
+    "date": "2022-06-26 13:44:31"
+},
+{
+    "_id": "90f3bdf91f4472700cda707634c29dd7396d78f552d5516f7b3ebcc8eaca33af",
+    "position": "Data Analyst",
+    "company": "MasterCard",
+    "country": "Canada",
+    "location": "Hybrid remote",
+    "category": "Data Analyst",
+    "programming": [
+        "python",
+        "sas",
+        "php",
+        "spss",
+        "r",
+        "sql"
+    ],
+    "BI": [
+        "tableau"
+    ],
+    "date": "2022-06-26 13:44:35"
+},
+{
+    "_id": "4df267014c8d2e0bc78df2b47f5c0351384c2c12566a12b5565ce13c03559042",
+    "position": "Data Analyst",
+    "company": "Capgemini",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "programming": [
+        "sql"
+    ],
+    "cloud": [
+        "snowflake",
+        "aws"
+    ],
+    "DB": [
+        "postgres",
+        "oracle db"
+    ],
+    "BI": [
+        "excel"
+    ],
+    "date": "2022-06-26 13:44:35"
+},
+{
+    "_id": "a1f54e5aed281007eb232272ca02d52afcda7d916cad59ccf43413171fe453f6",
+    "position": "Data Analyst",
+    "company": "Halifax Regional Municipality",
+    "country": "Canada",
+    "location": "Barrington, NS",
+    "category": "Data Analyst",
+    "major": [
+        "information technology"
+    ],
+    "programming": [
+        "f"
+    ],
+    "date": "2022-06-26 13:44:45"
+},
+{
+    "_id": "296fac150ddba756107d08456d411918053151aa62a1cf2fc9ac5d2af9738df0",
+    "position": "Data Analyst",
+    "company": "Manitoba Government",
+    "country": "Canada",
+    "location": "Winnipeg, MB",
+    "category": "Data Analyst",
+    "major": [
+        "engineering",
+        "statistics",
+        "mathematics",
+        "actuarial science",
+        "computer science",
+        "economics"
+    ],
+    "BI": [
+        "excel"
+    ],
+    "programming": [
+        "sas",
+        "r"
+    ],
+    "date": "2022-06-26 13:44:46"
+},
+{
+    "_id": "d6165c6e35b82fd23357932b1e694fe9423f188a521c44a9f3a2c61592616384",
+    "position": "Junior Pipeline Integrity Data Analyst",
+    "company": "Trans Mountain",
+    "country": "Canada",
+    "location": "Remote",
+    "category": "Data Analyst",
+    "cloud": [
+        "arcgis",
+        "portal"
+    ],
+    "major": [
+        "computer sciences",
+        "college diploma"
+    ],
+    "programming": [
+        "python",
+        "sql"
+    ],
+    "date": "2022-06-26 13:44:48"
+},
+{
+    "_id": "17c72e9e4609c9786b4071a3a7a07270a7234c12509e9bc1b05f4526622c7abe",
+    "position": "Statistical Data Analyst",
+    "company": "York Region",
+    "country": "Canada",
+    "location": "Concord, ON",
+    "category": "Data Analyst",
+    "major": [
+        "mathematics",
+        "business administration"
+    ],
+    "date": "2022-06-26 13:44:50"
+},
+{
+    "_id": "ed74362961adf35e7d00ca80b20dc226b596a1f53bf058205d1abc31ff84b43c",
+    "position": "Data Analyst",
+    "company": "SickKids",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "programming": [
+        "pem",
+        "python",
+        "sas"
+    ],
+    "major": [
+        "computer science",
+        "statistics",
+        "research analysis"
+    ],
+    "degree": [
+        "master"
+    ],
+    "DB": [
+        "access",
+        "sql server"
+    ],
+    "date": "2022-06-26 13:44:52"
+},
+{
+    "_id": "2b3ea63764fe0df400e9fe128dfea35ee21e9ea43811ecbd1d4b7704cc01a8f3",
+    "position": "Inventory Data Analyst",
+    "company": "University of British Columbia",
+    "country": "Canada",
+    "location": "Vancouver, BC",
+    "category": "Data Analyst",
+    "DB": [
+        "access",
+        "ubc it"
+    ],
+    "programming": [
+        "sql"
+    ],
+    "BI": [
+        "excel"
+    ],
+    "date": "2022-06-26 13:44:53"
+},
+{
+    "_id": "392c6564ce17cabfec9ef02a1f2e4df48f17a114d87d3e712d2a23f97ea1c4fb",
+    "position": "Data Analyst",
+    "company": "University of British Columbia",
+    "country": "Canada",
+    "location": "Vancouver, BC",
+    "category": "Data Analyst",
+    "DB": [
+        "level b"
+    ],
+    "major": [
+        "data analytics"
+    ],
+    "programming": [
+        "stata/ python",
+        "r",
+        "sql"
+    ],
+    "BI": [
+        "power bi",
+        "tableau"
+    ],
+    "date": "2022-06-26 13:44:54"
+},
+{
+    "_id": "7f74e927daa8b472b30ce6e9e164f870d70c13d93bc281264f7835106c8ba601",
+    "position": "Business Data Analyst - Full Time - Remote",
+    "company": "LifeLabs",
+    "country": "Canada",
+    "location": "Remote",
+    "category": "Data Analyst",
+    "degree": [
+        "bachelor"
+    ],
+    "major": [
+        "economics",
+        "compter science",
+        "business",
+        "management"
+    ],
+    "BI": [
+        "power bi",
+        "alteryx"
+    ],
+    "programming": [
+        "vba",
+        "sql"
+    ],
+    "date": "2022-06-26 13:44:55"
+},
+{
+    "_id": "f321097d67ce47aab09db209c7a09fb00a13f138691b43781590801cb3539aec",
+    "position": "Data Analyst (Remote: Canada)",
+    "company": "Vetsource",
+    "country": "Canada",
+    "location": "Remote",
+    "category": "Data Analyst",
+    "major": [
+        "math",
+        "economics",
+        "engineering",
+        "statistics"
+    ],
+    "programming": [
+        "python",
+        "r",
+        "sql"
+    ],
+    "BI": [
+        "powerbi",
+        "looker",
+        "tableau"
+    ],
+    "date": "2022-06-26 13:44:56"
+},
+{
+    "_id": "14f7c9921c48139412509ffa92adc9d3b7f49070b7c608b868168a3ac26140b9",
+    "position": "Jr. Developer/Data Analyst",
+    "company": "Ontario One Call",
+    "country": "Canada",
+    "location": "Remote",
+    "category": "Data Analyst",
+    "programming": [
+        "xml",
+        "javascript",
+        "python",
+        "c#",
+        "sql",
+        "html"
+    ],
+    "DB": [
+        "postgresql",
+        "maria db",
+        "mysql"
+    ],
+    "BI": [
+        "power bi",
+        "excel"
+    ],
+    "major": [
+        "cable",
+        "health"
+    ],
+    "date": "2022-06-26 13:44:58"
+},
+{
+    "_id": "a93cfe86ffe01eac40fdb6b0d70533cab3e048155f97163b49ff8920b612cf9f",
+    "position": "Data Analyst",
+    "company": "Cognizant",
+    "country": "Canada",
+    "location": "Remote",
+    "category": "Data Analyst",
+    "cloud": [
+        "azure",
+        "cognizant"
+    ],
+    "BI": [
+        "power bi"
+    ],
+    "programming": [
+        "sql"
+    ],
+    "date": "2022-06-26 13:44:59"
+},
+{
+    "_id": "971dc66e99c077012da262d942997c7faf2c73ac998282bdbc34f1d668080a6e",
+    "position": "database analyst",
+    "company": "AJC & Associates Inc.",
+    "country": "Canada",
+    "location": "Remote",
+    "category": "Data Analyst",
+    "programming": [
+        "db"
+    ],
+    "DB": [
+        "mysql",
+        "sql server"
+    ],
+    "date": "2022-06-26 13:45:13"
+},
+{
+    "_id": "851a90ad8c35ec72eeaacc6c0c31810ea29218db7054f731d9306cc0164ab16d",
+    "position": "Senior Data Analyst (PowerBI)",
+    "company": "OMERS",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "BI": [
+        "power query,",
+        "power bi"
+    ],
+    "cloud": [
+        "factory",
+        "azure",
+        "tabular editor"
+    ],
+    "programming": [
+        "powershell",
+        "python",
+        "ssis",
+        "sql"
+    ],
+    "degree": [
+        "bachelor"
+    ],
+    "major": [
+        "computer science",
+        "engineering"
+    ],
+    "date": "2022-06-26 13:45:16"
+},
+{
+    "_id": "ef3ef7f98144b0a2cf7a485aa1588075bf7ed46688978aa320be5caa307c008c",
+    "position": "Logistics Data Analyst",
+    "company": "Johnson & Johnson",
+    "country": "Canada",
+    "location": "Markham, ON",
+    "category": "Data Analyst",
+    "degree": [
+        "bachelor"
+    ],
+    "major": [
+        "analytics",
+        "2206035868w",
+        "engineering"
+    ],
+    "BI": [
+        "alteryx",
+        "power automate",
+        "excel",
+        "power bi",
+        "tableau"
+    ],
+    "DB": [
+        "access"
+    ],
+    "programming": [
+        "python",
+        "sql"
+    ],
+    "cloud": [
+        "azure"
+    ],
+    "date": "2022-06-26 13:45:18"
+},
+{
+    "_id": "28ab7a8853040f139179c10f137af2494bc10c63adf5fd64822be351431e5a3a",
+    "position": "database analyst",
+    "company": "PIU SUPPLY CHAIN MANAGEMENT",
+    "country": "Canada",
+    "location": "Richmond, BC",
+    "category": "Data Analyst",
+    "date": "2022-06-26 13:45:19"
+},
+{
+    "_id": "ad50e34ab7c54d47369117bf1615fe2477a4cbad57d59c5966a8a6b5f91c44e1",
+    "position": "Reporting Analyst – Government Services",
+    "company": "Alberta Blue Cross",
+    "country": "Canada",
+    "location": "Edmonton, AB",
+    "category": "Data Analyst",
+    "major": [
+        "computer science",
+        "economics",
+        "business",
+        "statistics"
+    ],
+    "programming": [
+        "sql"
+    ],
+    "DB": [
+        "access",
+        "oracle"
+    ],
+    "BI": [
+        "microstrategy",
+        "power bi",
+        "excel",
+        "tableau"
+    ],
+    "date": "2022-06-26 13:45:20"
+},
+{
+    "_id": "67c2b719a3db80f45b10b9fb28b410d60f116180862e064f20dc5c624ce0cb15",
+    "position": "Organizational Reliability Coordinator/Data Analyst",
+    "company": "Canadian Natural",
+    "country": "Canada",
+    "location": "Calgary, AB",
+    "category": "Data Analyst",
+    "BI": [
+        "power point",
+        "excel",
+        "power bi",
+        "tableau"
+    ],
+    "programming": [
+        "minitab",
+        ".net",
+        "sql"
+    ],
+    "DB": [
+        "oracle",
+        "sql server"
+    ],
+    "major": [
+        "computer science",
+        "health",
+        "engineering"
+    ],
+    "date": "2022-06-26 13:45:21"
+},
+{
+    "_id": "fc6ec556b113a3030ae4e2f278f0d6870cc79898c7348b7cf6aa24968dedcd8e",
+    "position": "Project analyst, data integrity",
+    "company": "Sobeys",
+    "country": "Canada",
+    "location": "Montréal, QC",
+    "category": "Data Analyst",
+    "date": "2022-06-26 13:45:24"
+},
+{
+    "_id": "02c100e673e38ab8319b34f28372c86e279c3a286432b04bfa23e06d0768f52f",
+    "position": "Business Analyst, Data Governance",
+    "company": "Spin Master Ltd",
+    "country": "Canada",
+    "location": "Hybrid remote",
+    "category": "Data Analyst",
+    "degree": [
+        "bachelor"
+    ],
+    "major": [
+        "it",
+        "engineering"
+    ],
+    "date": "2022-06-26 13:45:25"
+},
+{
+    "_id": "ee2fdba85c3acb73668c84598acad763cd9d07c6e009489354220558fb3e61de",
+    "position": "Workforce Reporting Analyst",
+    "company": "Neo Financial",
+    "country": "Canada",
+    "location": "Calgary, AB",
+    "category": "Data Analyst",
+    "date": "2022-06-26 13:45:26"
+},
+{
+    "_id": "bcc43b6bba0a6b38aa11090a234256bcd205c7423cfe82c4ed7452288c5e731a",
+    "position": "Data Analyst, Financial Crime Risk",
+    "company": "Neo Financial",
+    "country": "Canada",
+    "location": "Calgary, AB",
+    "category": "Data Analyst",
+    "programming": [
+        "python",
+        "r",
+        "sql"
+    ],
+    "date": "2022-06-26 13:45:27"
+},
+{
+    "_id": "eda96a0f4ac05e7ea4bc923bb6dbc73e9ce1c0c24ffdd9ca9e8f5b6e9d45aa39",
+    "position": "Analyst Business Intelligence",
+    "company": "Sobeys",
+    "country": "Canada",
+    "location": "Mississauga, ON",
+    "category": "Data Analyst",
+    "major": [
+        "evaluation"
+    ],
+    "BI": [
+        "excel",
+        "tableau"
+    ],
+    "DB": [
+        "sql server"
+    ],
+    "programming": [
+        "vba"
+    ],
+    "date": "2022-06-26 13:45:43"
+},
+{
+    "_id": "39ea7db5e00f224e647d530524954b97cdd8fa9db6b904b38e0755c4366012b7",
+    "position": "Data Management/Data Analyst",
+    "company": "Sanofi US",
+    "country": "Canada",
+    "location": "Hybrid remote",
+    "category": "Data Analyst",
+    "programming": [
+        "sql"
+    ],
+    "date": "2022-06-26 13:45:45"
+},
+{
+    "_id": "b92a12f9b77ef660a2b4d794dee821455f0a1c595e5ae0c7dbec5d25ce68b222",
+    "position": "computer analyst",
+    "company": "AYN IMMIGRATION SERVICES LTD.",
+    "country": "Canada",
+    "location": "Surrey, BC",
+    "category": "Data Analyst",
+    "programming": [
+        "java",
+        "c++",
+        "c",
+        "c#",
+        "sql",
+        "perl"
+    ],
+    "date": "2022-06-26 13:45:45"
+},
+{
+    "_id": "0cd13d7dc59b672aa9e2bb150fb5848becf9ddbf561b594f298d4e3846d84602",
+    "position": "database analyst",
+    "company": "Supreme Wire Products Ltd.",
+    "country": "Canada",
+    "location": "Brampton, ON",
+    "category": "Data Analyst",
+    "date": "2022-06-26 13:45:46"
+},
+{
+    "_id": "d37be3ca504ddf2997559e3066f396a0295158b71e91f9ff8c18390b367293ad",
+    "position": "Data Analyst",
+    "company": "Sanofi US",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "programming": [
+        "b",
+        "sql"
+    ],
+    "cloud": [
+        "snowflake",
+        "aws"
+    ],
+    "DB": [
+        "informatica"
+    ],
+    "degree": [
+        "bachelor"
+    ],
+    "major": [
+        "computer sciences"
+    ],
+    "BI": [
+        "moderna"
+    ],
+    "date": "2022-06-26 13:45:50"
+},
+{
+    "_id": "ef3831b24e8de153e0e9cf8e224348fc5549ac2587d50e696eb219afffdf8ee3",
+    "position": "Scaling Data Systems Analyst",
+    "company": "Canfor",
+    "country": "Canada",
+    "location": "Remote",
+    "category": "Data Analyst",
+    "date": "2022-06-26 13:45:52"
+},
+{
+    "_id": "28fb9e346b1b1bfc7d8bc9cf221c46356fbe47fa170755045f0fbbe3f1d3d4ba",
+    "position": "TML Data Analyst",
+    "company": "Acuren Group Inc.",
+    "country": "Canada",
+    "location": "Fort McMurray, AB",
+    "category": "Data Analyst",
+    "programming": [
+        "p.eng"
+    ],
+    "date": "2022-06-26 13:46:05"
+},
+{
+    "_id": "95bbf1fd1041562659867619989dcaf4e7dfeaf9e115b6bdbd3e761e919a71d6",
+    "position": "Data Analyst",
+    "company": "JELD-WEN, inc",
+    "country": "Canada",
+    "location": "Woodbridge, ON",
+    "category": "Data Analyst",
+    "major": [
+        "it"
+    ],
+    "date": "2022-06-26 13:46:07"
+},
+{
+    "_id": "6d640ca07820ac75f4bd07c65bcbfd6fc7a83f631ae40386012bd46c6edfa2c8",
+    "position": "Sr Data Analyst",
+    "company": "Aviva",
+    "country": "Canada",
+    "location": "Markham, ON",
+    "category": "Data Analyst",
+    "programming": [
+        "python",
+        "sas"
+    ],
+    "degree": [
+        "bachelor"
+    ],
+    "major": [
+        "computer science",
+        "mathematics"
+    ],
+    "BI": [
+        "qlik",
+        "excel"
+    ],
+    "date": "2022-06-26 13:46:08"
+},
+{
+    "_id": "50dee72de54433651b6544649ec3cea347ea7b095caa1b5036b5d26d26dd85f4",
+    "position": "database analyst",
+    "company": "Analyst Technical Solutions Ltd",
+    "country": "Canada",
+    "location": "Surrey, BC",
+    "category": "Data Analyst",
+    "major": [
+        "data science"
+    ],
+    "date": "2022-06-26 13:46:09"
+},
+{
+    "_id": "4847547e7fe7f265ae5a5c5343d995ef478c988d95fe5fec65a9f841077d0110",
+    "position": "Senior Data Analyst",
+    "company": "Taking Root",
+    "country": "Canada",
+    "location": "Remote",
+    "category": "Data Analyst",
+    "programming": [
+        "french",
+        "arcgis",
+        "python",
+        "sql"
+    ],
+    "BI": [
+        "google",
+        "excel"
+    ],
+    "date": "2022-06-26 13:46:10"
+},
+{
+    "_id": "63302b049935a43d15cc6fe713034b2d84cf97f2888ec73346745d0701969ef8",
+    "position": "Senior Data Analyst – Remote",
+    "company": "League Inc",
+    "country": "Canada",
+    "location": "Remote",
+    "category": "Data Analyst",
+    "programming": [
+        "python",
+        "sql"
+    ],
+    "BI": [
+        "looker"
+    ],
+    "major": [
+        "computer science",
+        "marketing",
+        "undergraduate",
+        "statistics"
+    ],
+    "degree": [
+        "master"
+    ],
+    "date": "2022-06-26 13:46:28"
+},
+{
+    "_id": "be50489961de5719c49de57a1eb6c196aa831456b8929c20db6fe0620cd5eb8f",
+    "position": "database analyst",
+    "company": "Click Studio",
+    "country": "Canada",
+    "location": "North Vancouver, BC",
+    "category": "Data Analyst",
+    "major": [
+        "mathematics",
+        "information sciences"
+    ],
+    "date": "2022-06-26 13:46:33"
+},
+{
+    "_id": "14338bc3a741a804aee0e93e5342683354132863e993c07da716e2cd56004e6d",
+    "position": "Data Analyst",
+    "company": "Canadian Tire Corporation",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "degree": [
+        "b.s ."
+    ],
+    "major": [
+        "engineering",
+        "statistics",
+        "mathematics",
+        "computer science",
+        "science"
+    ],
+    "programming": [
+        "python",
+        "sql"
+    ],
+    "BI": [
+        "excel",
+        "looker",
+        "google data studio",
+        "tableau"
+    ],
+    "cloud": [
+        "big query",
+        "snowflake",
+        "google cloud",
+        "gcp"
+    ],
+    "date": "2022-06-26 13:46:35"
+},
+{
+    "_id": "8dde5288bf111d5f5dcd1835f6ed50d668bf80f7bc55a49604f4a07de858002c",
+    "position": "AI/ML, Analyst",
+    "company": "CUSTOMER EXPERIENCE",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "major": [
+        "economics",
+        "data science"
+    ],
+    "programming": [
+        "sas",
+        "sql"
+    ],
+    "DB": [
+        "teradata"
+    ],
+    "BI": [
+        "microstrategy",
+        "tableau"
+    ],
+    "date": "2022-06-26 13:46:38"
+},
+{
+    "_id": "4396fe61f67f52a1ea99afa1f01ed7f99e3b6670e765a05c20f7de2bd870ef8e",
+    "position": "Data and Reporting Analyst Student- Fall 2022 (4 Months)- Mark's",
+    "company": "Canadian Tire Corporation",
+    "country": "Canada",
+    "location": "Calgary, AB",
+    "category": "Data Analyst",
+    "BI": [
+        "power bi",
+        "excel"
+    ],
+    "programming": [
+        "sql"
+    ],
+    "date": "2022-06-26 13:46:40"
+},
+{
+    "_id": "805cc955a37d8038383f93dcb7848f6810c2b93b0e72f04b9f42f990c5ca9f56",
+    "position": "Senior Analyst, Internal Reporting",
+    "company": "LifeWorks",
+    "country": "Canada",
+    "location": "Remote",
+    "category": "Data Analyst",
+    "programming": [
+        "sql"
+    ],
+    "BI": [
+        "excel",
+        "power bi"
+    ],
+    "major": [
+        "business analysis"
+    ],
+    "date": "2022-06-26 13:46:54"
+},
+{
+    "_id": "8f7d9f439693d734074741f165a86206706aca49a64ffbfb7de9b4ea5cc4d3f0",
+    "position": "Geophysicist/Data Analyst",
+    "company": "Sander Geophysics",
+    "country": "Canada",
+    "location": "Ottawa, ON",
+    "category": "Data Analyst",
+    "major": [
+        "health",
+        "careers@sgl.com",
+        "geophysics",
+        "earth sciences"
+    ],
+    "date": "2022-06-26 13:46:55"
+},
+{
+    "_id": "2a459b5405dcdeef9d4864e11983870e2ae46fb0889afa267d949656118e761d",
+    "position": "Data Warehousing Analyst",
+    "company": "Deloitte",
+    "country": "Canada",
+    "location": "Vancouver, BC",
+    "category": "Data Analyst",
+    "programming": [
+        "sql"
+    ],
+    "DB": [
+        "oracle"
+    ],
+    "BI": [
+        "accessiblecareers@deloitte.ca"
+    ],
+    "date": "2022-06-26 13:47:00"
+},
+{
+    "_id": "a611489de34b93ce8befafb73f49b2199bbc61d2dac6a222c6b564c1386e6536",
+    "position": "analyst, database",
+    "company": "CHOHAN GROUP LTD",
+    "country": "Canada",
+    "location": "Edmonton, AB",
+    "category": "Data Analyst",
+    "date": "2022-06-26 13:47:00"
+},
+{
+    "_id": "dcfced52570c23a9e85b3d9f632f4ba927f868958abd8935914f681c00472dbd",
+    "position": "Data Analyst",
+    "company": "Xylem",
+    "country": "Canada",
+    "location": "Temporarily remote",
+    "category": "Data Analyst",
+    "degree": [
+        "bachelor"
+    ],
+    "major": [
+        "physics"
+    ],
+    "programming": [
+        "c++",
+        "python",
+        "matlab",
+        "sql",
+        "vba"
+    ],
+    "date": "2022-06-26 13:47:02"
+},
+{
+    "_id": "c2818ab70c0ec376c0bf839f79dfdd3fe6016dd772ed4b6288073388c3eaf6fc",
+    "position": "Microbiology Analyst (Inventory)",
+    "company": "Canadian Food Inspection Agency",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "degree": [
+        "bachelor"
+    ],
+    "major": [
+        "biology",
+        "microbiology",
+        "sciences"
+    ],
+    "date": "2022-06-26 13:47:04"
+},
+{
+    "_id": "6ebef332f92002efb71186da975fa957c7f98fa423b244e0d082f3cd92e78d55",
+    "position": "Systems Engineer/Data Analyst",
+    "company": "Topcon Positioning Systems",
+    "country": "Canada",
+    "location": "Saskatoon, SK",
+    "category": "Data Analyst",
+    "programming": [
+        "c++",
+        "topconpositioning.com"
+    ],
+    "major": [
+        "computer science",
+        "engineering"
+    ],
+    "date": "2022-06-26 13:47:18"
+},
+{
+    "_id": "26bdceda38aba8e327916f3a1af3e46131130e0dd85bb54ddd783846809a824b",
+    "position": "Senior Analyst, Market Intelligence",
+    "company": "TELUS",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "BI": [
+        "tableau"
+    ],
+    "programming": [
+        "sas",
+        "sql"
+    ],
+    "DB": [
+        "oracle"
+    ],
+    "major": [
+        "computer science",
+        "economics",
+        "business",
+        "statistics"
+    ],
+    "date": "2022-06-26 13:47:23"
+},
+{
+    "_id": "b1aa20fa65180b2764abe37a8f6664546f64aef9ef984699b5c50916ce3a4092",
+    "position": "Master Data Analyst",
+    "company": "FMC Corporation",
+    "country": "Canada",
+    "location": "Calgary, AB",
+    "category": "Data Analyst",
+    "major": [
+        "engineering"
+    ],
+    "BI": [
+        "excel"
+    ],
+    "date": "2022-06-26 13:47:25"
+},
+{
+    "_id": "9db60994d9c3228c3603bfef10ee88c89379e32bacf9add798398872b563aeb0",
+    "position": "Tier II Analyst",
+    "company": "Neo Financial",
+    "country": "Canada",
+    "location": "Winnipeg, MB",
+    "category": "Data Analyst",
+    "major": [
+        "computer science",
+        "engineering"
+    ],
+    "date": "2022-06-26 13:47:28"
+},
+{
+    "_id": "750fa79458b1b005b62f84ab82d3833c6516d255adc4314ae7479004e0e95e44",
+    "position": "Data Analyst/Programmer",
+    "company": "SIRVA",
+    "country": "Canada",
+    "location": "Edmonton, AB",
+    "category": "Data Analyst",
+    "major": [
+        "computer sciences",
+        "economics",
+        "college diploma"
+    ],
+    "programming": [
+        "c#",
+        "webforms",
+        "asp.net",
+        "sql",
+        "vba"
+    ],
+    "BI": [
+        "power bi",
+        "excel",
+        "tableau",
+        "power pivot"
+    ],
+    "DB": [
+        "power query",
+        "ms sql server"
+    ],
+    "date": "2022-06-26 13:47:29"
+},
+{
+    "_id": "b9d200490e63f444ae10df0ef455c9a4f5ed538c1352d2d6a2a15c8b679717e6",
+    "position": "Sustainable Operations Program Analyst",
+    "company": "County of Simcoe",
+    "country": "Canada",
+    "location": "Midhurst, ON",
+    "category": "Data Analyst",
+    "major": [
+        "engineering"
+    ],
+    "BI": [
+        "excel"
+    ],
+    "date": "2022-06-26 13:47:46"
+},
+{
+    "_id": "33632c815070d300d383dd974f4ed537515d058d1e9bf490b253fe06b6052d06",
+    "position": "Senior Risk Data Analyst",
+    "company": "Shopify",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "major": [
+        "data science",
+        "engineering"
+    ],
+    "degree": [
+        "bachelor"
+    ],
+    "programming": [
+        "python",
+        "sql"
+    ],
+    "date": "2022-06-26 13:47:46"
+},
+{
+    "_id": "e8c01d9aa0967cdfaebbfc0be7368fd153ff2d9540cff00394115dfb2108ff3d",
+    "position": "Innovation Researcher and Analyst, Advisory",
+    "company": "KPMG",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "major": [
+        "psychology",
+        "social sciences"
+    ],
+    "programming": [
+        "python",
+        "spss",
+        "r",
+        "sql"
+    ],
+    "BI": [
+        "tableau"
+    ],
+    "date": "2022-06-26 13:47:51"
+},
+{
+    "_id": "a683113dc9ba30ae85145ee1c2ff32b3ca6b7dff847cbead956690869a8dcb5d",
+    "position": "Data Analyst-Tableau Developer (Co-op Student)",
+    "company": "Lumentum Operations LLC",
+    "country": "Canada",
+    "location": "Ottawa, ON",
+    "category": "Data Analyst",
+    "BI": [
+        "tableau"
+    ],
+    "programming": [
+        "xml",
+        "xsd",
+        "python",
+        "sql"
+    ],
+    "major": [
+        "engineering",
+        "engineering physics",
+        "computer science",
+        "data science",
+        "health"
+    ],
+    "date": "2022-06-26 13:47:52"
+},
+{
+    "_id": "2e1cde3f07db235d4f4fadf0e50875f36ddbd4e58511c8d458833fc88e135a8c",
+    "position": "Reporting Analyst",
+    "company": "Laurentian Bank",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "BI": [
+        "power bi",
+        "tableau"
+    ],
+    "programming": [
+        "sql"
+    ],
+    "DB": [
+        "access"
+    ],
+    "date": "2022-06-26 13:47:53"
+},
+{
+    "_id": "60c8fcfeb710d2267122780b07f48a0f3c929581a8a69cabbd6dc892665b12e7",
+    "position": "Business Intelligence Analyst",
+    "company": "PBS Systems",
+    "country": "Canada",
+    "location": "Calgary, AB",
+    "category": "Data Analyst",
+    "BI": [
+        "qlik"
+    ],
+    "programming": [
+        "sql"
+    ],
+    "date": "2022-06-26 13:48:11"
+},
+{
+    "_id": "064ee6ba831d27413a73b454063d0080daee7e855af1eb9bde72b157cecdeaf2",
+    "position": "Analyst, eComm Fraud Strategy",
+    "company": "Canadian Tire Financial Services",
+    "country": "Canada",
+    "location": "Oakville, ON",
+    "category": "Data Analyst",
+    "programming": [
+        "excel",
+        "python",
+        "sas",
+        "sql"
+    ],
+    "BI": [
+        "3:17:05 pm"
+    ],
+    "date": "2022-06-26 13:48:12"
+},
+{
+    "_id": "ef5cfa7e3feb0b71cb7bae64c2cff87cf60bfae22fbdc56560e604cd9484e474",
+    "position": "Senior Analyst, Treasury",
+    "company": "The City of Vancouver",
+    "country": "Canada",
+    "location": "Vancouver, BC",
+    "category": "Data Analyst",
+    "cloud": [
+        "waututh"
+    ],
+    "degree": [
+        "bachelor"
+    ],
+    "major": [
+        "economics",
+        "mathematics",
+        "business administration"
+    ],
+    "date": "2022-06-26 13:48:13"
+},
+{
+    "_id": "cd0aee0670935daec4f0b6b35c8a2aabb6316df8be5f55b9a91d214a3569960b",
+    "position": "Reporting Analyst",
+    "company": "Hydro One Networks Inc",
+    "country": "Canada",
+    "location": "Hybrid remote",
+    "category": "Data Analyst",
+    "date": "2022-06-26 13:48:21"
+},
+{
+    "_id": "e0ea9c4ebfb2debecb58459957db44e1a68e7306bd759b993402184c1e671e32",
+    "position": "Senior Data Analyst",
+    "company": "Dapper Labs",
+    "country": "Canada",
+    "location": "Remote",
+    "category": "Data Analyst",
+    "major": [
+        "statistics",
+        "mathematics",
+        "computer science",
+        "data science",
+        "marketing"
+    ],
+    "BI": [
+        "looker",
+        "google ventures,",
+        "google ventures (",
+        "google data studio",
+        "tableau"
+    ],
+    "programming": [
+        "sql"
+    ],
+    "cloud": [
+        "mixpanel"
+    ],
+    "degree": [
+        "m.s .",
+        "b.s ."
+    ],
+    "date": "2022-06-26 13:48:36"
+},
+{
+    "_id": "e8af034e7ac06641d8e07001ca45fdf99dd7cec3b62bb8f7f5b6b7ef45f89f1e",
+    "position": "Senior Business Analyst - Innovation, Transformation, and Data Analytics (Virtual Position)",
+    "company": "TELUS",
+    "country": "Canada",
+    "location": "Remote",
+    "category": "Data Analyst",
+    "programming": [
+        "python",
+        "sql"
+    ],
+    "DB": [
+        "oracle"
+    ],
+    "cloud": [
+        "gcp"
+    ],
+    "BI": [
+        "tableau"
+    ],
+    "date": "2022-06-26 13:48:39"
+},
+{
+    "_id": "012a2440554afc79c373940575f5b60498c4f7049a06cb22c00f250cd0f6ad72",
+    "position": "Sr Data Analyst - DRE",
+    "company": "Electronic Arts",
+    "country": "Canada",
+    "location": "Vancouver, BC",
+    "category": "Data Analyst",
+    "programming": [
+        "scala",
+        "python",
+        "dre",
+        "r",
+        "sql"
+    ],
+    "BI": [
+        "power bi"
+    ],
+    "degree": [
+        "bachelor"
+    ],
+    "major": [
+        "economics",
+        "mathematics",
+        "statistics"
+    ],
+    "date": "2022-06-26 13:48:45"
+},
+{
+    "_id": "11ca9f23396812d2a4a4e7e4ff6c495b476c4ddb3b6a4aec747976f63dfce658",
+    "position": "Senior Analyst, process excellence and continuous improvement",
+    "company": "Canadian Red Cross",
+    "country": "Canada",
+    "location": "Remote",
+    "category": "Data Analyst",
+    "major": [
+        "business"
+    ],
+    "cloud": [
+        "prosci"
+    ],
+    "date": "2022-06-26 13:48:46"
+},
+{
+    "_id": "642f798d1d19ae2a979a06f129c3d9f620ce35a945819c584e59b6315f1d82c0",
+    "position": "Data Quality Analyst (Call Center)",
+    "company": "Johnson Controls",
+    "country": "Canada",
+    "location": "Concord, ON",
+    "category": "Data Analyst",
+    "cloud": [
+        "salesforce"
+    ],
+    "BI": [
+        "power bi"
+    ],
+    "degree": [
+        "bachelor"
+    ],
+    "major": [
+        "ee"
+    ],
+    "date": "2022-06-26 13:49:00"
+},
+{
+    "_id": "68266a1d3c96da9411d54f332809aa84513d69a618b550cee1cd7d60bc0b4bb2",
+    "position": "Master Data Analyst",
+    "company": "West Fraser Mills Ltd",
+    "country": "Canada",
+    "location": "Vancouver, BC",
+    "category": "Data Analyst",
+    "degree": [
+        "bachelor"
+    ],
+    "BI": [
+        "excel"
+    ],
+    "date": "2022-06-26 13:49:02"
+},
+{
+    "_id": "3adc383779a4fe7762c0f4d6497f4845bee8307f3abcdc4c6ee9499e438ee0e3",
+    "position": "New Flyer - Data Analyst",
+    "company": "NFI",
+    "country": "Canada",
+    "location": "Winnipeg, MB",
+    "category": "Data Analyst",
+    "major": [
+        "technology",
+        "it",
+        "business"
+    ],
+    "programming": [
+        "sql"
+    ],
+    "BI": [
+        "power query",
+        "excel",
+        "powerbi"
+    ],
+    "DB": [
+        "oracle"
+    ],
+    "date": "2022-06-26 13:49:03"
+},
+{
+    "_id": "ff18245de51574e36e566b87f38fad4ba252458ae6b1d63e71f406034817e0ac",
+    "position": "Data Analyst",
+    "company": "Dorigo Systems",
+    "country": "Canada",
+    "location": "Burnaby, BC",
+    "category": "Data Analyst",
+    "degree": [
+        "bachelor"
+    ],
+    "BI": [
+        "power bi",
+        "tableau"
+    ],
+    "programming": [
+        "sql"
+    ],
+    "date": "2022-06-26 13:49:04"
+},
+{
+    "_id": "32b35059284b936a01b24f007eab670fb5b6656649d23270fc242e0180a341a2",
+    "position": "Data Analyst",
+    "company": "eSSENTIAL Accessibility",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "programming": [
+        "c",
+        "python",
+        "r",
+        "sql"
+    ],
+    "BI": [
+        "cognos",
+        "qlik",
+        "tableau",
+        "powerbi"
+    ],
+    "date": "2022-06-26 13:49:07"
+},
+{
+    "_id": "623c00f27f5d6a63917db406fb488bd13121bba6ddfb93801fe64d780aa9bd48",
+    "position": "analyst, database",
+    "company": "A7 Software Technologies Ltd.",
+    "country": "Canada",
+    "location": "Edmonton, AB",
+    "category": "Data Analyst",
+    "programming": [
+        "xml",
+        "javascript",
+        "php",
+        "c#",
+        ".net",
+        "xsl",
+        "db",
+        "sql",
+        "html"
+    ],
+    "DB": [
+        "oracle",
+        "mysql"
+    ],
+    "date": "2022-06-26 13:49:10"
+},
+{
+    "_id": "50151f4ba80d0b0061bae80f5ec9b1cc77af9f0d0444b882dfc31c9b8fe968b5",
+    "position": "Analyst, Inventory Control",
+    "company": "Sun Pharmaceutical Industries, Inc.",
+    "country": "Canada",
+    "location": "Brampton, ON",
+    "category": "Data Analyst",
+    "programming": [
+        "w"
+    ],
+    "BI": [
+        "excel"
+    ],
+    "date": "2022-06-26 13:49:12"
+},
+{
+    "_id": "8364765e5f78fbfbb438e72ce81b77b5c77b97ec87add67ac8e18a1b8f29128c",
+    "position": "Analyst, Data Engineering (Integratons & Operations)",
+    "company": "NOVA Chemicals Corporation",
+    "country": "Canada",
+    "location": "Calgary, AB",
+    "category": "Data Analyst",
+    "BI": [
+        "joffre administration,"
+    ],
+    "programming": [
+        "scala",
+        "python",
+        "sac",
+        "db",
+        "sql",
+        "ruby"
+    ],
+    "cloud": [
+        "adls",
+        "azure"
+    ],
+    "degree": [
+        "bachelor"
+    ],
+    "major": [
+        "computer science",
+        "health"
+    ],
+    "DB": [
+        "azureml"
+    ],
+    "date": "2022-06-26 13:49:13"
+},
+{
+    "_id": "3bc36ba3a6340de522bb80810fb83bb8424088c97d3e4322db67707a5c552bde",
+    "position": "Sr. Business Intelligence Analyst (SQL)",
+    "company": "Neo Financial",
+    "country": "Canada",
+    "location": "Calgary, AB",
+    "category": "Data Analyst",
+    "programming": [
+        "sql"
+    ],
+    "cloud": [
+        "snowflake"
+    ],
+    "BI": [
+        "looker",
+        "tableau",
+        "powerbi"
+    ],
+    "date": "2022-06-26 13:49:30"
+},
+{
+    "_id": "79d39f70dd0e93ca730ccf7e4c773a82bb7955ccfd1fea645c257a3075a1e384",
+    "position": "Data Analyst – Full Time",
+    "company": "DIVISA",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "degree": [
+        "bachelor"
+    ],
+    "major": [
+        "engineering",
+        "statistics",
+        "finance",
+        "computer science",
+        "data science",
+        "economics",
+        "business"
+    ],
+    "programming": [
+        "sql"
+    ],
+    "cloud": [
+        "google"
+    ],
+    "DB": [
+        "oracle",
+        "magento"
+    ],
+    "date": "2022-06-26 13:49:31"
+},
+{
+    "_id": "38e6bc0958c7a515d1f8943337cf3427fb1a2434b8b0f3f884926330e64722a5",
+    "position": "Survey Data Analyst",
+    "company": "Queen's University",
+    "country": "Canada",
+    "location": "Kingston, ON",
+    "category": "Data Analyst",
+    "degree": [
+        "queen"
+    ],
+    "programming": [
+        "r",
+        "sas",
+        "sql"
+    ],
+    "cloud": [
+        "peoplesoft query",
+        "271128"
+    ],
+    "BI": [
+        "excel",
+        "tableau"
+    ],
+    "DB": [
+        "access"
+    ],
+    "date": "2022-06-26 13:49:33"
+},
+{
+    "_id": "ed4893dde5ae7be1fbd275cc7a8958f711e1d89fe488074fb394a116ae24a382",
+    "position": "Academic Quality Data Analyst",
+    "company": "George Brown College",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "BI": [
+        "excel",
+        "tableau",
+        "power bi",
+        "powerbi"
+    ],
+    "major": [
+        "psychology",
+        "statistics",
+        "mathematics",
+        "sciences",
+        "diploma",
+        "business"
+    ],
+    "DB": [
+        "access"
+    ],
+    "programming": [
+        "spss"
+    ],
+    "date": "2022-06-26 13:49:34"
+},
+{
+    "_id": "f979a7f414f63fc38ead646037f27809aaaa87b736c14cab185237256701f0b4",
+    "position": "Reservations Reporting Analyst",
+    "company": "Four Seasons",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "date": "2022-06-26 13:49:42"
+},
+{
+    "_id": "6d5949935ed531b4e44cfb3040176144cef72dac9e19a8737b5ec20e5afc4d2b",
+    "position": "Business Analyst - Data and Analytics",
+    "company": "Seaspan Marine",
+    "country": "Canada",
+    "location": "North Vancouver, BC",
+    "category": "Data Analyst",
+    "BI": [
+        "power bi"
+    ],
+    "degree": [
+        "bachelor"
+    ],
+    "major": [
+        "computer science",
+        "business administration"
+    ],
+    "date": "2022-06-26 13:49:50"
+},
+{
+    "_id": "7a8f75d538acefc8c1a238cab200e22cfed9c73bba000be27c246b96dd246db6",
+    "position": "Data Analyst, Payment Decision Support",
+    "company": "PC Financial",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "programming": [
+        "ess",
+        "python",
+        "sas",
+        "sql"
+    ],
+    "BI": [
+        "google",
+        "tableau"
+    ],
+    "major": [
+        "analytics",
+        "engineering",
+        "statistics",
+        "mathematics",
+        "computer science"
+    ],
+    "date": "2022-06-26 13:50:04"
+},
+{
+    "_id": "33729fcadab4c1cd89d7ba9ec1d13c9b4099bc6abde3ba546c51492c0958338a",
+    "position": "Actuarial Analyst - Data Science",
+    "company": "Aviva",
+    "country": "Canada",
+    "location": "Montréal, QC",
+    "category": "Data Analyst",
+    "date": "2022-06-26 13:50:06"
+},
+{
+    "_id": "1f6bd888ba85f7684cc5405f689cd0584a350624177ae774ac39e8011579ff79",
+    "position": "Institutional Data Analyst",
+    "company": "Royal Bank of Canada",
+    "country": "Canada",
+    "location": "Vancouver, BC",
+    "category": "Data Analyst",
+    "programming": [
+        "gam"
+    ],
+    "DB": [
+        "evestment"
+    ],
+    "degree": [
+        "bachelor"
+    ],
+    "date": "2022-06-26 13:50:15"
+},
+{
+    "_id": "71749033954bf9b1a9a4e0b7766f6ad5fd3de0301d548333bf4add85f797c482",
+    "position": "Data analyst",
+    "company": "Desjardins",
+    "country": "Canada",
+    "location": "Hybrid remote",
+    "category": "Data Analyst",
+    "degree": [
+        "bachelor"
+    ],
+    "date": "2022-06-26 13:50:31"
+},
+{
+    "_id": "be22b6327eb6cfdff3efd22d59aa119a75f246120133d917a8e69b2326d5de47",
+    "position": "Analyst, Pricing",
+    "company": "Hudson's Bay",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "degree": [
+        "bachelor"
+    ],
+    "major": [
+        "business degree"
+    ],
+    "date": "2022-06-26 13:50:31"
+},
+{
+    "_id": "b60c8ebb38f1adde06e3680eb6ddf0065519e2dbbd9a91894cc9e24461507145",
+    "position": "Digital Analyst - Research & Insights",
+    "company": "Corus Entertainment",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "programming": [
+        "javascript",
+        "python",
+        "r",
+        "sql"
+    ],
+    "degree": [
+        "bachelor"
+    ],
+    "major": [
+        "math",
+        "statistics"
+    ],
+    "BI": [
+        "power bi",
+        "tableau"
+    ],
+    "date": "2022-06-26 13:50:58"
+},
+{
+    "_id": "5fef25f594e16427277a365964c51e08a18bea1ffe8f22c3820edad4f4e3ac34",
+    "position": "Analyst - Pricing Global Accounts",
+    "company": "Wesco",
+    "country": "Canada",
+    "location": "Kitchener, ON",
+    "category": "Data Analyst",
+    "programming": [
+        "excel",
+        "sql"
+    ],
+    "BI": [
+        "excel"
+    ],
+    "DB": [
+        "access"
+    ],
+    "date": "2022-06-26 13:50:59"
+},
+{
+    "_id": "d23b021ccb17e638fd9ddc60cf2c81035660385b7a3e6fb222def601002b33e4",
+    "position": "Analyst - Data Analytics and Research",
+    "company": "Centennial College",
+    "country": "Canada",
+    "location": "Scarborough, ON",
+    "category": "Data Analyst",
+    "major": [
+        "statistics",
+        "mathematics",
+        "social sciences",
+        "computer science",
+        "business administration",
+        "’s degree",
+        "internet",
+        "economics"
+    ],
+    "BI": [
+        "cognos",
+        "excel",
+        "college websites)"
+    ],
+    "DB": [
+        "oracle"
+    ],
+    "programming": [
+        "spss",
+        "sas",
+        "python",
+        "r"
+    ],
+    "date": "2022-06-26 13:51:00"
+},
+{
+    "_id": "6670da49e0618fdc279da5c23a48d8489051b02c7a05339662f011906582f28f",
+    "position": "database analyst (DBA)",
+    "company": "Uponcall Inc.",
+    "country": "Canada",
+    "location": "Surrey, BC",
+    "category": "Data Analyst",
+    "date": "2022-06-26 13:51:02"
+},
+{
+    "_id": "17d9c83ab33c06ba216cc2025a5e70e595958c23d7374438278a1c74b098c78b",
+    "position": "Performance Analyst I, Virtual Care - TELUS Health",
+    "company": "TELUS",
+    "country": "Canada",
+    "location": "Remote",
+    "category": "Data Analyst",
+    "major": [
+        "marketing"
+    ],
+    "BI": [
+        "excel"
+    ],
+    "date": "2022-06-26 13:51:05"
+},
+{
+    "_id": "53d854210e8f531715b9439eb2a8366f18cc5431b6d7ec3e2df51e38c1188848",
+    "position": "Human Resources (HR) Systems & Data Analyst",
+    "company": "Canadian Red Cross",
+    "country": "Canada",
+    "location": "Remote",
+    "category": "Data Analyst",
+    "BI": [
+        "excel",
+        "power bi",
+        "powerbi"
+    ],
+    "major": [
+        "finance",
+        "business administration",
+        "administration",
+        "computer science",
+        "information technology"
+    ],
+    "degree": [
+        "bachelor",
+        "diploma"
+    ],
+    "programming": [
+        "xml",
+        "javascript",
+        "cpp",
+        "sas",
+        "spss",
+        "sql"
+    ],
+    "cloud": [
+        "taleo"
+    ],
+    "date": "2022-06-26 13:51:07"
+},
+{
+    "_id": "b4c4086dc7f6bd5401af9ecbb7dcd8728e096604e024d74b574d2a250dd138f3",
+    "position": "Senior Data Analyst",
+    "company": "Hitachi",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "major": [
+        "hris business"
+    ],
+    "BI": [
+        "power bi"
+    ],
+    "programming": [
+        "sql"
+    ],
+    "cloud": [
+        "azure"
+    ],
+    "date": "2022-06-26 13:51:22"
+},
+{
+    "_id": "0155e37239776ee66ec01ea37e958dcf0e8a79fee8a9ade96249629b1b2ed1e6",
+    "position": "Data Analyst, BORN Ontario, Permanent Full-time (1.0) / Analyste de données, BORN Ontario, à permanente temps plein (1,0)",
+    "company": "CHEO",
+    "country": "Canada",
+    "location": "Ottawa, ON",
+    "category": "Data Analyst",
+    "DB": [
+        "données",
+        "08:00:00 am"
+    ],
+    "degree": [
+        "le",
+        "bachelor"
+    ],
+    "cloud": [
+        "comparer",
+        "cihi",
+        "noter"
+    ],
+    "major": [
+        "epidemiology",
+        "l’analyste",
+        "statistics"
+    ],
+    "programming": [
+        "provenant",
+        "sas",
+        "avec",
+        "les",
+        "loi sur la",
+        "à",
+        "r",
+        "de",
+        "des"
+    ],
+    "BI": [
+        "pratique",
+        "collaborer avec",
+        "du",
+        "une",
+        "à",
+        "rédiger",
+        "vue",
+        "excel",
+        "syndicat",
+        "2021",
+        "de",
+        "l’institut"
+    ],
+    "date": "2022-06-26 13:51:26"
+},
+{
+    "_id": "68229b30ec437959eec2e52d7606f1a9f742713d20dbd5f653f9a9d02e0d84fb",
+    "position": "Research Analyst 2",
+    "company": "Malatest",
+    "country": "Canada",
+    "location": "Edmonton, AB",
+    "category": "Data Analyst",
+    "major": [
+        "sociology",
+        "nvivo",
+        "program evaluation",
+        "economics",
+        "health"
+    ],
+    "programming": [
+        "pdf",
+        "sas",
+        "spss",
+        "r"
+    ],
+    "DB": [
+        "access",
+        "spss"
+    ],
+    "BI": [
+        "excel"
+    ],
+    "date": "2022-06-26 13:51:48"
+},
+{
+    "_id": "b8d825122a80d55506db347626e86fb2c36e37e9d84c9ba0f5cc81a1b493c2df",
+    "position": "Business Reporting Analyst - RFA MC",
+    "company": "RFA Canada",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "BI": [
+        "power automate",
+        "excel",
+        "power bi"
+    ],
+    "DB": [
+        "microsoft sql server"
+    ],
+    "programming": [
+        "ssis",
+        "sql"
+    ],
+    "date": "2022-06-26 13:51:51"
+},
+{
+    "_id": "0df9ac6ab18a212f192d1bfe2b8227fac5d96942a05587265e453d2f4e06613d",
+    "position": "Database Analyst 3",
+    "company": "Surrey Police Service",
+    "country": "Canada",
+    "location": "Surrey, BC",
+    "category": "Data Analyst",
+    "degree": [
+        "bachelor"
+    ],
+    "major": [
+        "computer science",
+        "information management",
+        "linkedin",
+        "business administration"
+    ],
+    "DB": [
+        "microsoft sql server"
+    ],
+    "date": "2022-06-26 13:51:51"
+},
+{
+    "_id": "81ac0c4d0942c1870346e46d02ec4917fdb541963db95188023ae4f0b0abca83",
+    "position": "Senior Data Analyst, Search Engine Marketing",
+    "company": "Priceline.com",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "cloud": [
+        "google",
+        "booking.com"
+    ],
+    "degree": [
+        "bachelor"
+    ],
+    "major": [
+        "computer science",
+        "engineering",
+        "economics",
+        "math"
+    ],
+    "programming": [
+        "agoda",
+        "python",
+        "r",
+        "sql"
+    ],
+    "date": "2022-06-26 13:51:52"
+},
+{
+    "_id": "43af0c5787f7066af0050a6538fa75f5c3c4e5f30abf8bdf7f8d83f2a32fae8f",
+    "position": "Pricing Analyst- Analytics, Research & Pricing",
+    "company": null,
+    "country": "Canada",
+    "location": "Edmonton, AB",
+    "category": "Data Analyst",
+    "BI": [
+        "excel"
+    ],
+    "DB": [
+        "access",
+        "oracle"
+    ],
+    "programming": [
+        "sql"
+    ],
+    "degree": [
+        "bachelor"
+    ],
+    "major": [
+        "actuarial science",
+        "economics",
+        "mathematics",
+        "statistics"
+    ],
+    "date": "2022-06-26 13:51:54"
+},
+{
+    "_id": "57698cbb5a9b9ebe02e22d9c0d9898427127e8abeae88199c718307eacbc98fb",
+    "position": "Sensor Data Analyst",
+    "company": "Wood Plc",
+    "country": "Canada",
+    "location": "St. John's, NL",
+    "category": "Data Analyst",
+    "programming": [
+        "python"
+    ],
+    "major": [
+        "engineering",
+        "math"
+    ],
+    "date": "2022-06-26 13:51:55"
+},
+{
+    "_id": "85bfd675bf1219b76566b7b4b658f55727eb8fffc92b42979f1d10e57783eb92",
+    "position": "analyst, database",
+    "company": "ANAYA TECHNOLOGIES INC.",
+    "country": "Canada",
+    "location": "Brampton, ON",
+    "category": "Data Analyst",
+    "major": [
+        "data science"
+    ],
+    "date": "2022-06-26 13:51:55"
+},
+{
+    "_id": "53a7d083af7bcdf60036eda198f55dcdb080eb450b900784a1c11f23bbcc8a82",
+    "position": "Business Intelligence Analyst",
+    "company": "AXIS Insurance",
+    "country": "Canada",
+    "location": "Halifax, NS",
+    "category": "Data Analyst",
+    "DB": [
+        "corporate it",
+        "oracle"
+    ],
+    "major": [
+        "commerce",
+        "business administration"
+    ],
+    "BI": [
+        "power bi",
+        "excel",
+        "tableau"
+    ],
+    "cloud": [
+        "hfm"
+    ],
+    "date": "2022-06-26 13:51:56"
+},
+{
+    "_id": "61d9ff2cfad41b324c99521adaf9b2eeb2e8ff65a22f0c813e772b3028b0ae83",
+    "position": "Analyste de données | Data Analyst, Genuine",
+    "company": "Autodesk",
+    "country": "Canada",
+    "location": "Montréal, QC",
+    "category": "Data Analyst",
+    "cloud": [
+        "sein",
+        "l'accent",
+        "concentre"
+    ],
+    "programming": [
+        "d'analyse",
+        "sql",
+        "python",
+        "avec",
+        "de",
+        "des",
+        "que python",
+        "dans"
+    ],
+    "BI": [
+        "d’exploitations",
+        "avec",
+        "powerbi",
+        "une",
+        "à",
+        "anglais",
+        "power bi"
+    ],
+    "DB": [
+        "données"
+    ],
+    "degree": [
+        "bachelor"
+    ],
+    "date": "2022-06-26 13:51:58"
+},
+{
+    "_id": "34ebc12e1142d62e2544f25398ccaeda077a17f3a7609504641b827aafaf1b2d",
+    "position": "Analyste de données / Data Analyst",
+    "company": "Avison Young Canada",
+    "country": "Canada",
+    "location": "Montréal, QC",
+    "category": "Data Analyst",
+    "BI": [
+        "l’analyse",
+        "une",
+        "l’immobilier",
+        "à",
+        "excel"
+    ],
+    "programming": [
+        "de l'anglais",
+        "à",
+        "de",
+        "des",
+        "comme"
+    ],
+    "degree": [
+        "vue",
+        "bachelor"
+    ],
+    "DB": [
+        "données"
+    ],
+    "cloud": [
+        "d’adaptation à",
+        "résoudre"
+    ],
+    "date": "2022-06-26 13:52:00"
+},
+{
+    "_id": "1d3909a41a5e34cc78599d0ece62dbb2366ac1b1903cc0775d8a9ad59b4fdab2",
+    "position": "Business & Data Analyst",
+    "company": "Hexagon",
+    "country": "Canada",
+    "location": "Calgary, AB",
+    "category": "Data Analyst",
+    "cloud": [
+        "hexagon"
+    ],
+    "degree": [
+        "bachelor"
+    ],
+    "major": [
+        "computer science"
+    ],
+    "DB": [
+        "oracle",
+        "sql server"
+    ],
+    "date": "2022-06-26 13:52:16"
+},
+{
+    "_id": "c8104b43894dc247b18513ec4e6801018b184d19abcf6a010065b18c111e0b92",
+    "position": "Data Analyst",
+    "company": "Evercore",
+    "country": "Canada",
+    "location": "Montréal, QC",
+    "category": "Data Analyst",
+    "BI": [
+        "blackswan",
+        "excel"
+    ],
+    "programming": [
+        "blackswan"
+    ],
+    "cloud": [
+        "elasticsearch"
+    ],
+    "date": "2022-06-26 13:52:16"
+},
+{
+    "_id": "8e91bda498b213f336413e94d9ae38f0df6daa114e044ea0a60d4ea348e88e67",
+    "position": "Analyst, Commercial Real Estate",
+    "company": "Altus Group",
+    "country": "Canada",
+    "location": "Calgary, AB",
+    "category": "Data Analyst",
+    "BI": [
+        "excel"
+    ],
+    "major": [
+        "commerce",
+        "economics",
+        "finance"
+    ],
+    "date": "2022-06-26 13:52:19"
+},
+{
+    "_id": "59960f54c2194e0f03105ffec277d347174e7a86f605086c49b26cb3f91101fe",
+    "position": "Test Analyst (1 Year Contract)",
+    "company": "BrokerLink",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "cloud": [
+        "ctfl",
+        "kincentric"
+    ],
+    "programming": [
+        "xml",
+        "xsd",
+        "excel",
+        "2021",
+        "json"
+    ],
+    "date": "2022-06-26 13:52:24"
+},
+{
+    "_id": "a1b77f4ca902d3d93ec869f83f72ef41110215c9eb767d5400d7baf9f9283b48",
+    "position": "Senior Data Analyst",
+    "company": "Wave",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "BI": [
+        "looker"
+    ],
+    "programming": [
+        "python",
+        "r",
+        "sql"
+    ],
+    "date": "2022-06-26 13:52:25"
+},
+{
+    "_id": "50fadc37d84d4528ca34b4ec50e67253adbf37f79580cd9be6b6e81f3ef91ff2",
+    "position": "Business Intelligence Analyst",
+    "company": "Porter Airlines Inc.",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "BI": [
+        "tableau"
+    ],
+    "programming": [
+        "python",
+        "sql"
+    ],
+    "degree": [
+        "bachelor"
+    ],
+    "date": "2022-06-26 13:52:26"
+},
+{
+    "_id": "2cf479f195a7c454e0c071954c76f7f5e9e48a40e162effcc045e51f02cad1b6",
+    "position": "Senior Data Research Analyst",
+    "company": "Morningstar",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "programming": [
+        "python",
+        "sql"
+    ],
+    "BI": [
+        "power bi",
+        "tableau"
+    ],
+    "degree": [
+        "bachelor"
+    ],
+    "major": [
+        "engineering"
+    ],
+    "cloud": [
+        "aws"
+    ],
+    "date": "2022-06-26 13:52:39"
+},
+{
+    "_id": "11f2ef0e702155a5397c423f43b723650d739e1c20dbfa70f3642cd08f0bd25a",
+    "position": "Senior Analyst - CPG Manufacturer",
+    "company": "NielsenIQ",
+    "country": "Canada",
+    "location": "Markham, ON",
+    "category": "Data Analyst",
+    "DB": [
+        "nielseniq"
+    ],
+    "major": [
+        "marketing"
+    ],
+    "BI": [
+        "power bi",
+        "excel",
+        "tableau"
+    ],
+    "date": "2022-06-26 13:52:42"
+},
+{
+    "_id": "d2526b4a9e7249eec36089ec6b37ae0e65f4df973e15ddd3deb55e0bd2922372",
+    "position": "Business Intelligence Analyst",
+    "company": "MOZ Group",
+    "country": "Canada",
+    "location": "Remote",
+    "category": "Data Analyst",
+    "DB": [
+        "mysql",
+        "sql server"
+    ],
+    "cloud": [
+        "aws",
+        "redshift",
+        "sql"
+    ],
+    "major": [
+        "data engineering",
+        "product",
+        "google analytics"
+    ],
+    "programming": [
+        "python",
+        "r",
+        "sql"
+    ],
+    "date": "2022-06-26 13:52:44"
+},
+{
+    "_id": "9a298d4247d5de8b614e1d76aeee14a0f8262d9ac75bd95be9c41c09893a0fd9",
+    "position": "Data Analyst- Hybrid",
+    "company": "Royal Bank of Canada",
+    "country": "Canada",
+    "location": "Toronto, ON",
+    "category": "Data Analyst",
+    "major": [
+        "engineering"
+    ],
+    "cloud": [
+        "fis"
+    ],
+    "DB": [
+        "oracle"
+    ],
+    "programming": [
+        "fis"
+    ],
+    "date": "2022-06-26 13:52:46"
+}
+]

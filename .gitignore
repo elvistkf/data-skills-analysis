@@ -1,0 +1,7 @@
+.DS_Store
+wandb/
+nlp/wandb/
+nlp/ner_model/
+nlp/textcat_model/
+__pycache__/
+*.pyc
