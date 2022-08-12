@@ -11,7 +11,7 @@ class SkillsSpider(scrapy.Spider):
     def start_requests(self):
         job_search = quote("data analyst")
         hk_urls = [
-            f'https://hk.indeed.com/jobs?q={job_search}&start={n}' for n in range(50, 250, 10)
+            f'https://hk.indeed.com/jobs?q={job_search}&start={n}' for n in range(0, 200, 10)
         ]
         ca_urls = [
             f'https://ca.indeed.com/jobs?q={job_search}&start={n}' for n in range(0, 400, 10)

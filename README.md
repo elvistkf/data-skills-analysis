@@ -52,4 +52,4 @@ In view of this, manual data cleaning is necessary to ensure data integrity. Thi
 The cleaned data will then be inserted back into the MongoDB database, ready for further utilisation.
 
 ## Data Visualisation
-An interactive dashboard web application is built to visualise the data.
+An [interactive dashboard](https://data-skills-dashboard.netlify.app) web application is built to visualise the data.

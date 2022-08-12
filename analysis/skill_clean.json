@@ -182,7 +182,9 @@
         "Teradata": "Teradata",
         "teradata": "Teradata",
         "oracle sql": "Oracle",
-        "maria db": "MariaDB"
+        "maria db": "MariaDB",
+        "MariaDB": "MariaDB",
+        "mongodb sql server": "MongoDB"
     },
     "cloud": {
         "aws": "AWS",
@@ -206,6 +208,7 @@
         "GCP": "GCP",
         "Snowflake": "Snowflake",
         "Terraform": "Terraform",
-        "Cloudera": "Cloudera"
+        "Cloudera": "Cloudera",
+        "google": "GCP"
     }
 }
